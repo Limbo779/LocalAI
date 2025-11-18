@@ -47,9 +47,12 @@ see this video for context : [n8n manage homelab](https://www.youtube.com/watch?
 
 
 ### Project arc 1
-in this arc I'm trying to build a basic pipeline in my local machine to do web search with the small models
+- in this arc I'm trying to build a basic pipeline in my local machine to do web search with the small models
 
 <img src="Pipeline.png" alt="My Image" width="1080" height="892">
+
+- for the web data summarization i will use sumy package and it is good enough to take me into NLP rabbit hole . 
+i can get into the rabbit hole by doing the projects in their [README.md](https://github.com/miso-belica/sumy)
 
 #### Progress from here
 * if it is successfull then maybe we can use GPU 
@@ -60,4 +63,4 @@ in this arc I'm trying to build a basic pipeline in my local machine to do web s
 * the rest is just my imagination but let's focus on this stuff
 
 ### Project arc 2
-in this arc i will try to polish the stuff done in arc 1 and make the AI chatbot which i can confidently replace to perplexity
+in this arc i will try to polish the stuff done in arc 1 and make the AI chatbot which i can confidently replace to perplexity . one way is try for RAG process which will make the things more easy

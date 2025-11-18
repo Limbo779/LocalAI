@@ -1,5 +1,7 @@
 import os
 import requests
+import re
+import subprocess
 
 # Set your Ollama API key either here or as an environment variable OLLAMA_API_KEY
 API_KEY = os.getenv("OLLAMA_API_KEY", "13b1bb3fd0894359ba9c9da94aabbe76.LVr9Am3AtXNK4wNOCcybD-B0")
@@ -50,14 +52,38 @@ def write_cleaned_content_to_md(data: dict, filename: str = "output.md"):
 # my_dict = { ... }  # your dictionary as provided
 # write_cleaned_content_to_md(my_dict, "mecha_anime.md")
 
+#function to remove the annoying links in the md
+def remove_links_from_md(md_text):
+    pattern = r"\[(.*?)\]\(.*?\)"
+    cleaned_text = re.sub(pattern, r"\1", md_text)
+    return cleaned_text
+
+def convert_md_file(input_path, output_path):
+    with open(input_path, 'r', encoding='utf-8') as file:
+        content = file.read()
+
+    cleaned_content = remove_links_from_md(content)
+
+    with open(output_path, 'w', encoding='utf-8') as file:
+        file.write(cleaned_content)
+
+# Example usage:
+# convert_md_file('input.md', 'output_cleaned.md')
 
 
+# this will pull take the three web data, remove all the annoying link and write them into three md files
 if __name__ == "__main__":
-    user_query = "what are the best pokemon games?"
+    user_query = "when is linkin park contest in india"
     results = ollama_web_search(user_query)
-    print("Web Search Results:")
-    print(results['results'][2])
-    write_cleaned_content_to_md(results['results'][0],'output.md')
+    #print("Web Search Results:")
+    j=0
+    for i in ['output1.md','output2.md','output3.md'] :
+        #print(results['results'][2])
+        write_cleaned_content_to_md(results['results'][j],i)
+        j+=1
+        convert_md_file(i,f"output_{j}.md")
+        subprocess.run(f'rm -rf {i}',shell=True)
+    print("Completed")
     #for result in results.get("results", []):
     #    print(f"- Title: {result.get('title')}")
     #    print(f"  URL: {result.get('url')}")
