@@ -52,7 +52,7 @@ see this video for context : [n8n manage homelab](https://www.youtube.com/watch?
 <img src="Pipeline.png" alt="My Image" width="1080" height="892">
 
 - for the web data summarization i will use sumy package and it is good enough to take me into NLP rabbit hole . 
-i can get into the rabbit hole by doing the projects in their [README.md](https://github.com/miso-belica/sumy)
+i can get into the rabbit hole by doing the projects in their [README.md](https://github.com/miso-belica/sumy) , this can be done during the time when i build anki flashcards maker
 
 #### Progress from here
 * if it is successfull then maybe we can use GPU 
