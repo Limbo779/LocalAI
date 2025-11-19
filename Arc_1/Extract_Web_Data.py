@@ -73,20 +73,21 @@ def convert_md_file(input_path, output_path):
 
 # this will pull take the three web data, remove all the annoying link and write them into three md files
 if __name__ == "__main__":
-    user_query = "why few people use linux"
+    # get the querry and perform the actual web search
+    user_query = "why physical media is important"
     results = ollama_web_search(user_query)
-    #print("Web Search Results:")
+
+    # clean and write the messy web data into md (which will be deleted after summarization)
     j=0
     for i in ['output1.md','output2.md','output3.md'] :
-        #print(results['results'][2])
         write_cleaned_content_to_md(results['results'][j],i)
         j+=1
         convert_md_file(i,f"output_{j}.md")
         subprocess.run(f'rm -rf {i}',shell=True)
-    print("Data Extraction Completed")
-    subprocess.run(f'python3 test.py',shell=True)
 
-    #for result in results.get("results", []):
-    #    print(f"- Title: {result.get('title')}")
-    #    print(f"  URL: {result.get('url')}")
-    #    print(f"  Snippet: {result.get('content')}\n")
+    # do the summarization by running summary.py
+    subprocess.run(f'python3 summary.py',shell=True)
+
+    # finally remove the unwanted md file 
+    for k in ['output_1.md','output_2.md','output_3.md'] :    
+        subprocess.run(f'rm -rf {k}',shell=True)

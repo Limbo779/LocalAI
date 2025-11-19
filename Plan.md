@@ -54,6 +54,10 @@ see this video for context : [n8n manage homelab](https://www.youtube.com/watch?
 - for the web data summarization i will use sumy package and it is good enough to take me into NLP rabbit hole . 
 i can get into the rabbit hole by doing the projects in their [README.md](https://github.com/miso-belica/sumy) , this can be done during the time when i build anki flashcards maker
 
+- make sure to learn stuff from this project 
+
+- resources for getting crazy in NLP [link_1](https://www.sbert.net/index.html) [link_2](https://www.nltk.org/book/) [link_3](https://ia803202.us.archive.org/31/items/python_ebooks_2020/python_3_text_processing_with_nltk_cookbook.pdf)
+
 #### Progress from here
 * if it is successfull then maybe we can use GPU 
 * but for that we should use docker cause we need to install and configure lots of software

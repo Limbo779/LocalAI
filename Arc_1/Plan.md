@@ -17,4 +17,11 @@
 
 # 19 Nov 2025
 
-- Summarizer 
+- Summarizer is ready.so each summary algo has it's own advantage so when spliting the querry into three let the AI decide what algo to use
+- and based on that we can use that algo 
+- when the querry is split into 3 different querry ,Extract_Web_Data.py will be used and summarization will be done based on the choice (Extract_Web_Data.py will run the summary.py)
+- all the summarized data from 3 different querry will be written into one file data.txt
+- choose_points.py will go through data.py and give the most relevent thing based on semantic simillarity 
+- resources to consult for semantic simillarity [1](https://www.geeksforgeeks.org/nlp/different-techniques-for-sentence-semantic-similarity-in-nlp/) [2](https://www.freecodecamp.org/news/how-to-perform-sentence-similarity-check-using-sentence-transformers/) [3](https://huggingface.co/tasks/sentence-similarity)
+- today's [perplexity chat](https://www.perplexity.ai/search/localai-tell-me-how-to-build-a-F4lQoKvqQVqJQwGduao6oA#0)
+- tommorrow let's analyse what semantic simillarity is and how we can apply in our project

@@ -12,16 +12,26 @@ def summarize(text, language="english"):
     # Parse text and tokenize
     parser = PlaintextParser.from_string(text, Tokenizer(language))
     # Choose summarizer
-    summarizer = LuhnSummarizer() #LsaSummarizer()
+    summarizer = LexRankSummarizer() #LsaSummarizer()
     # Generate summary as a list of sentences
     sentences_count=int(round(count*(1/100)))
     summary = summarizer(parser.document, sentences_count)
     # Combine into one string to return
-    return ' '.join(str(sentence) for sentence in summary)
+    
+    return summary
+    #return ' '.join(str(sentence) for sentence in summary)
 
 if __name__ == "__main__":
     text=""
-    for i in range(3):
+    for i in range(3): # this loop is to summarize three md files
+        # open the md file and summarize it
         with open(f"output_{i+1}.md",'r',encoding='utf-8') as f:
-            text += f.read()
-    print(summarize(text))
+            text = f.read()
+            text=summarize(text)
+
+            # write the summarized text into data.txt line by line
+            with open('data.txt','a+',encoding='utf-8') as file:
+                for sentance in text :
+                    file.write(str(sentance)+'\n')
+    
+
