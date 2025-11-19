@@ -1,22 +1,30 @@
-# Currently testing the summarizer
-from ollama import Client
+# -*- coding: utf-8 -*-
 
-# Create a client pointing to your local Ollama server (default URL)
-client = Client(host="http://localhost:11434")
+from __future__ import absolute_import
+from __future__ import division, print_function, unicode_literals
 
-def read_md_file(filename):
-    with open(filename, "r", encoding="utf-8") as f:
-        return f.read()
+from sumy.parsers.html import HtmlParser
+from sumy.parsers.plaintext import PlaintextParser
+from sumy.nlp.tokenizers import Tokenizer
+from sumy.summarizers.lsa import LsaSummarizer as Summarizer
+from sumy.nlp.stemmers import Stemmer
+from sumy.utils import get_stop_words
 
-raw_info=read_md_file('output.md')
 
-# Chat with your local model by specifying the model name and messages
-response = client.chat(
-    model="llama3.1:8b",
-    messages=[
-        {"role": "user", "content": f"summarize and get the key points from the following text for llm model to understand     text : {raw_info}"}
-    ]
-)
+LANGUAGE = "english"
+SENTENCES_COUNT = 10
 
-# Print the model's response content
-print(response["message"]["content"])
+
+if __name__ == "__main__":
+    url = "https://en.wikipedia.org/wiki/Automatic_summarization"
+    parser = HtmlParser.from_url(url, Tokenizer(LANGUAGE))
+    # or for plain text files
+    # parser = PlaintextParser.from_file("document.txt", Tokenizer(LANGUAGE))
+    # parser = PlaintextParser.from_string("Check this out.", Tokenizer(LANGUAGE))
+    stemmer = Stemmer(LANGUAGE)
+
+    summarizer = Summarizer(stemmer)
+    summarizer.stop_words = get_stop_words(LANGUAGE)
+
+    for sentence in summarizer(parser.document, SENTENCES_COUNT):
+        print(sentence)
