@@ -14,3 +14,7 @@
 - choose_points.py will pick the most relevent point for the querry and store it in a txt file
 - make a tool which will let ollama access txt file in python (tool.py) and use it so that model can access txt easily
 - all this will be orchestrated in main.py which will call all these py files in required time 
+
+# 19 Nov 2025
+
+- Summarizer 

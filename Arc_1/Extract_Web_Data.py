@@ -73,7 +73,7 @@ def convert_md_file(input_path, output_path):
 
 # this will pull take the three web data, remove all the annoying link and write them into three md files
 if __name__ == "__main__":
-    user_query = "when is linkin park contest in india"
+    user_query = "why few people use linux"
     results = ollama_web_search(user_query)
     #print("Web Search Results:")
     j=0
@@ -82,8 +82,10 @@ if __name__ == "__main__":
         write_cleaned_content_to_md(results['results'][j],i)
         j+=1
         convert_md_file(i,f"output_{j}.md")
-        #subprocess.run(f'rm -rf {i}',shell=True)
-    print("Completed")
+        subprocess.run(f'rm -rf {i}',shell=True)
+    print("Data Extraction Completed")
+    subprocess.run(f'python3 test.py',shell=True)
+
     #for result in results.get("results", []):
     #    print(f"- Title: {result.get('title')}")
     #    print(f"  URL: {result.get('url')}")
