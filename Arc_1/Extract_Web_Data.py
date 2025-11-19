@@ -82,7 +82,7 @@ if __name__ == "__main__":
         write_cleaned_content_to_md(results['results'][j],i)
         j+=1
         convert_md_file(i,f"output_{j}.md")
-        subprocess.run(f'rm -rf {i}',shell=True)
+        #subprocess.run(f'rm -rf {i}',shell=True)
     print("Completed")
     #for result in results.get("results", []):
     #    print(f"- Title: {result.get('title')}")
