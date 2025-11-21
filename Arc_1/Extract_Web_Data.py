@@ -73,7 +73,7 @@ def convert_md_file(input_path, output_path):
 
 # this will pull take the three web data, remove all the annoying link and write them into three md files
 if __name__ == "__main__":
-    # get the querry and perform the actual web search
+    # the querry is recieved through pipe from main.py
     user_query = input()
     results = ollama_web_search(user_query)
 
@@ -92,4 +92,5 @@ if __name__ == "__main__":
     for k in ['output_1.md','output_2.md','output_3.md'] :    
         subprocess.run(f'rm -rf {k}',shell=True)
 
+    # querry is given to choose_points through pipe
     subprocess.run(f"echo '{user_query}' | python3 choose_points.py",shell=True)
