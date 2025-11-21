@@ -74,7 +74,7 @@ def convert_md_file(input_path, output_path):
 # this will pull take the three web data, remove all the annoying link and write them into three md files
 if __name__ == "__main__":
     # get the querry and perform the actual web search
-    user_query = "why physical media is important"
+    user_query = input()
     results = ollama_web_search(user_query)
 
     # clean and write the messy web data into md (which will be deleted after summarization)
@@ -91,3 +91,5 @@ if __name__ == "__main__":
     # finally remove the unwanted md file 
     for k in ['output_1.md','output_2.md','output_3.md'] :    
         subprocess.run(f'rm -rf {k}',shell=True)
+
+    subprocess.run(f"echo '{user_query}' | python3 choose_points.py",shell=True)
