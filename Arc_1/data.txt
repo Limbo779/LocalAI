@@ -1,0 +1,698 @@
+# Cooperative Communication with Humans Evolved to Emerge Early in Domestic Dogs.
+## Cooperative Communication with Humans Evolved to Emerge Early in Domestic Dogs.
+Although we know that dogs evolved from wolves, it remains unclear how domestication affected dog cognition.
+One hypothesis suggests dog domestication altered social maturation by a process of selecting for an attraction to humans.1-3 Under this account, dogs became more flexible in using inherited skills to cooperatively communicate with a new social partner that was previously feared and expressed these unusual social skills early in development.4-6 Here, we comparedog (n = 44) and wolf (n = 37) puppies, 5-18 weeks old, on a battery of temperament and cognition tasks.
+- Wolves - Humans - Human-Animal Interaction - Gestures - Domestication - Dogs - Developmental Biology - Communication - Cognition - Biological Evolution
+Salomons, Hannah, Kyle C. M. Smith, Megan Callahan-Beckel, Margaret Callahan, Kerinne Levy, Brenda S. Kennedy, Emily E. Bray, et al. “ Cooperative Communication with Humans Evolved to Emerge Early in Domestic Dogs.” _Current Biology : CB_ 31, no.
+Salomons, Hannah, et al. “ Cooperative Communication with Humans Evolved to Emerge Early in Domestic Dogs.” _Current Biology : CB_, vol.
+- Wolves - Humans - Human-Animal Interaction - Gestures - Domestication - Dogs - Developmental Biology - Communication - Cognition - Biological Evolution
+It looks like you were misusing this feature by going too fast.
+“Dogs evolved from wolves, and through domestication, they developed a bond with humans based on mutual benefit.
+Over time, this relationship deepened, leading to the loyalty we see in dogs today,” Dr. Fossum told Rover.
+Dogs reciprocate by offering emotional support to their families in the form of unlimited nuzzles, licks, and tail wags.
+In addition, research has shown that owning a pet may even offer health benefits for people, such as an improved mood and reduced stress.
+“Research shows that dogs produce oxytocin, often called the ‘love hormone,’ when interacting with their humans.
+This suggests that their bond with us goes beyond loyalty to a deep emotional connection.”
+“Dogs in abusive situations are constantly striving to do the right thing.
+“While dogs do benefit from structure and leadership, they are not necessarily driven by the same dominance hierarchies seen in wolves.
+Positive reinforcement and understanding your dog’s needs foster a better relationship,” said Dr. Fossum.
+So, ditch the pack or dominance approach, and work as a family team on positive reinforcement with your pet.”
+Here are some of the ways that dogs may demonstrate loyalty to their owner, family, or favorite person.
+Some breeds may have naturally protective instincts after generations of selective breeding for that trait.
+A dog may show loyalty for reasons that are more nuanced than meet the eye.
+But one thing is certain: Dogs have become part of our families.
+#### Receive the latest adorable pet photos, care tips, training advice, product recommendations, and more.
+Page 2 shows SNP1 and experimenter-directed interactions; page 3 shows SNP1 and owner-directed interactions; page 4 shows SNP2 and experimenter-directed interactions; page 5 shows SNP2 and owner-directed interactions.
+We have previously identified two loci on chromosome 26 associated with human contact-seeking behaviors during an unsolvable problem task in laboratory beagles ( Persson et al., 2016).
+The aim of the present study was to verify the single nucleotide polymorphisms (SNPs) in additional dog breeds.
+The Labrador retrievers were divided into common and field type by pedigree data to make it possible to study the effects of recent selection.
+DNA from dogs (buccal swabs) and wolves (blood or brain tissue) was analyzed for genotype on two of the previously identified SNP markers, BICF2G630798942 (SNP1) and BICF2S23712114 (SNP2), by pyrosequencing.
+There was genetic variation for SNP1 in both dog breeds whereas the wolves were fixed for this polymorphism, and for SNP2 there was variation in both dogs and wolves.
+In golden retrievers, SNP1 was associated with physical contact variables, for example, with the duration of physical contact with the owner ( _F_ 2,56 = 4.389, _p_ = 0.017).
+SNP2 was associated with several behavioral variables in both breeds, among others owner gazing frequency in both golden retrievers ( _F_ 2,55 = 6.330, _p_ = 0.003) and Labradors ( _F_ 1,93 = 5.209, _p_ = 0.025).
+Our results verify the association between the previously identified SNPs and human-directed social behavior scored in an unsolvable problem task.
+The results indicate that these genomic regions are involved in human-directed social behavior in not only beagles but in other dog breeds as well.
+**Keywords:** Genetics, Dog genetics, Dog behavior, Human-dog communication, Human-directed social behavior, Golden retrievers, Labrador retrievers, Wolf, Domestication, Behavior genetics
+The genetics of complex traits such as social behavior is difficult to study in humans as it requires a standardized environment, dense genotyping as well as phenotyping of a large number of individuals.
+In addition, their human-like social skills could make them a suitable model species for human social behavior and disorders.
+Through sharing our ecological niche for thousands of years, dogs have developed social talents that, in some cases, have been reported to surpass the skills of our closest relative, the chimpanzee ( _Pan troglodytes_), as well as their own wolf ancestor ( _Canis lupus_) ( Hare & Tomasello, 1999, 2005).
+For example, dogs are able to comprehend human ostensive cues and referential gestures such as pointing and gazing ( Lakatos et al., 2012; Soproni et al., 2001).
+They are also able to communicate with humans through intentional communicative referential gestures involving both attention-seeking and directional-showing behavior ( Marshall-Pescini et al., 2013; Miklosi et al., 2000; Passalacqua et al., 2011).
+Not even socialized wolves are as prone as dogs to seek human attention ( Gacsi et al., 2009; Topal et al., 2005), or to communicate with humans through mutual gazing ( Nagasawa et al., 2015).
+Hare & Tomasello (2005) and Miklósi et al. (2003) showed that dogs and socialized wolves differ in their human-directed contact-seeking behavior when faced with an unsolvable task.
+Hence, behavioral tests involving unsolvable tasks that stimulate communication and attention-seeking toward humans can be used to study dog–human social interactions, including variation between and within breeds ( Persson et al., 2015, 2017; Sundman et al., 2018).
+When studying dogs’ human-directed social behavior it is important to take into account that dogs form strong attachment bonds with their owners ( Topal et al., 1998).
+It has been suggested that owners function as a secure base influencing persistence in cognitive tasks, because the presence of the owner affects dogs’ duration of task manipulation ( Horn, Huber & Range, 2013).
+Additionally, these authors found that dogs spent more time in proximity of their owner and the presence or absence of the owner affected dogs’ interactions toward the unfamiliar experimenter.
+It is therefore relevant to analyze social interactions toward an unfamiliar experimenter and the familiar owner separately if both are present during a cognitive task.
+Consistent with this, we previously found that dogs’ social behaviors directed at owners and those directed at unfamiliar experimenter were separated into different components in a principal component analysis ( Sundman et al., 2018).
+The dog is not only well-suited for studies on social behavior, the species is also well-suited for studies of the genetics of both simple and complex traits such as social behaviors.
+The structure of the dog genome with long regions of linkage disequilibrium is particularly suitable for genome-wide studies identifying candidate regions for traits of interest ( Lindblad-Toh et al., 2005; Sutter et al., 2004).
+Regarding human-directed social behavior, heritability estimates show a significant genetic component underlying variation in behaviors as measured in an unsolvable problem task ( Persson et al., 2015).
+Furthermore, genome-wide association studies have identified two candidate regions on chromosome 26 associated with human-directed social behavior in laboratory beagles, with single nucleotide polymorphisms (SNPs) located within the _SEZ6L_ and _ARVCF_ genes ( Persson et al., 2016).
+Interestingly, these genes have previously been associated with human social disorders such as autism for _SEZ6L_ ( Chapman et al., 2015) and schizophrenia for _ARVCF_ ( Sim et al., 2012).
+Additionally, Persson et al. (2016) found that the SNP associated with the gene _ARVCF_ is in linkage with three other genes of interest for dogs’ sociability, for example, the _COMT_ gene that has previously been associated with mood regulation in humans ( Qayyum et al., 2015).
+However, further studies are necessary to verify that the same SNP markers are associated with human-directed contact seeking in other dog breeds.
+In the present study, we utilized behavioral data collected in two different experiments in two other breeds, each experiment using similar methods for studying dog–human interactions in a standardized behavioral test.
+The aim of the study was thus to investigate whether there are associations between human-directed social behavior, as measured in an unsolvable problem task, and two candidate SNP markers in groups of golden and Labrador retrievers.
+It is possible that genetic variants affecting social behavior have been under selection during domestication and more recent breed formations.
+To provide some tentative data in relation to this, we genotyped wolves and included a dog breed that has undergone recent selection for its cooperative bond with humans, the Labrador retriever.
+These studies were carried out in accordance with the relevant guidelines and the ethical permit approved by the regional ethical committee for animal experiments in Linköping, Sweden (permit number: 51-13).
+In total, 61 golden retrievers (34 females and 27 males) and 100 Labrador retrievers (52 females and 48 males) were tested in the same unsolvable problem task and additionally genotyped for the two candidate SNPs.
+Golden retrievers participated in a study involving intranasal oxytocin treatment and its effect on behaviors in an unsolvable problem task ( Persson et al., 2017) and, due to this, they were required to be at least 4 months of age (mean age 5 ± SE 0.5 years; range 4 months-12 years) and not pregnant or lactating.
+Labrador retrievers participated in a study on correlations between the unsolvable problem task and other behavior assessments ( Sundman et al., 2018) and were required to be at least 1 and not older than 4 years of age (mean age 2.43 ± 0.195).
+If ancestors for at least three generations back were bred for field work, which can be seen in titles of ancestors, for example, field-trial champion, the dogs were classified as field-type Labrador retrievers.
+Based on the pedigree analysis we classified 52 Labrador retrievers as common (28 females and 24 males) and 48 as field type (24 females and 24 males).
+Buccal DNA samples were collected either prior to the testing (golden retrievers) or after the testing (Labrador retrievers).
+To assure sufficient food motivation in the dogs, their willingness to eat the treats used in the unsolvable problem task was confirmed as described in Persson et al. (2015).
+Briefly, dogs were presented with three quarter-pieces of Frolic© on a plastic plate of the same material as the problem-solving device but without a lid.
+Subjects of the breed golden retriever were part of a parallel study investigating effects of oxytocin treatment on dogs’ human directed social behavior ( Persson et al., 2017).
+Therefore, as part of this parallel study, subsequently to DNA sampling half of the females and half of the males received an intranasal dose of 20 IU oxytocin 45 min prior to the behavioral test.
+After the food motivation test, these dogs were taken for a 30-min walk followed by 10 min of resting in the car immediately prior to the behavior test.
+The experimenter who tested the golden retrievers was blinded to which hormone treatment the dogs received until after the behavioral video analysis.
+Subjects of the breed Labrador retriever had been subjected to a standardized test battery (Behavior and Personality test for Dogs, Swedish Kennel Club) before testing them in the unsolvable problem task.
+Results from the behavior test have been previously published in Sundman et al. (2018) (Labrador retrievers) and in Persson et al. (2017) (golden retrievers).
+Dogs were tested with the unsolvable problem task thoroughly described in Persson et al. (2015) with the addition of the presence of the owner.
+The experimenter cleaned, prepared and placed the unsolvable problem task on the ground approximately 15–30 cm from the middle of the back wall prior to the arrival of each dog.
+Upon arrival at the testing arena, owners were reminded to stand passively immediately close to the fence at the front right corner inside the tent, facing the problem task.
+If the dog had not opened any of the lids within 60 s, the experimenter opened both solvable lids halfway and immediately went back to her original position.
+The behaviors scored from the behavior test were the human-directed social behaviors proximity, physical contact, and gazing in relation to owner and experimenter.
+In addition to the social behaviors, we scored the duration of the time the dog spent in close proximity of the test-setup.
+| Behavior | Description | | --- | --- | | Experimenter zone | Dog’s head is within one body length of the experimenter | | Owner zone | Dog’s head is within one body length of the owner | | Experimenter gaze | The dog directs its eyes towards the face of the experimenter | | Owner gaze | The dog directs its eyes towards the face of the owner | | Experimenter physical contact | The dog is in physical contact with the experimenter | | Owner physical contact | The dog is in physical contact with the owner | | Duration test-setup | The duration of time (s) the dog’s head is within one body length of the test-setup |
+Buccal cells were collected from the dogs by rubbing a cotton swab on the inside of their cheek for approximately 20 s. Buccal samples were stored at 4 °C and wolf samples (blood and serum) were stored at −20 °C until DNA extraction.
+The standard protocol of the Isohelix DDK-50 kit was used to extract DNA from buccal swabs, with the exception that samples were kept in Lysis Buffer and proteinase K for 48 h prior to continuing with the protocol.
+DNA was also extracted from fifteen whole blood and three serum wolf samples using the QIAGEN DNeasy® Blood and Tissue Kit and from three wolf brain samples using QIAGEN AllPrep DNA/RNA/miRNA Universal Kit, both by standard protocol.
+For each sample, the PCR-mixture contained 0.12 μl DreamTaq™ DNA Polymerase 5 u/μl (Thermo Scientific, Waltham, MA, USA), 2.5 μl of 10X DreamTaq™ Buffer (Thermo Scientific, Waltham, MA, USA), 0.5 μl dNTP 10 mM (2.5 mM each, BIOLINE), 0.5 μl of each primer diluted to 5 μM (Invitrogen, Carlsbad, CA, USA), 19.9 μl of nuclease free water and approximately 100–200 ng of DNA template.
+The PCR cycle consisted of an initial denaturation at 95 °C for 3 min, 40 cycles of 30 s denaturation at 95 °C, 30 s annealing at 63 °C for the SNP1 primers and 61 °C for SNP2 primers, 30 s extension at 72 °C and a 10 min final extension at 72 °C.
+Genotyping of the SNP1 marker was successful in all 61 golden retriever samples, in 97 Labrador retriever samples (genotyping failed in one male and two female samples) and in 19 wolf samples (two female samples failed).
+SNP2 was successfully genotyped in 60 golden retrievers (one female sample failed), in 98 Labrador retrievers (two female samples failed) and in 19 wolves (two female samples failed).
+For golden retriever analyses, statistical models contained oxytocin treatment, sex and SNP genotype and for Labrador retriever analyses, the models contained type, sex and SNP genotype.
+Final models for each behavior including _F_ and _p_ statistics can be found in Table 2 for golden retrievers and Table 3 for Labrador retrievers.
+| Behavior | D _f_ 1 | D _f_ 2 | SNP1 | Sex | Treatment | SNP1 \* sex | SNP1 \* treatment | Distribution | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | _F_ | _p_ | _F_ | _p_ | _F_ | _p_ | _F_ | _p_ | _F_ | _p_ | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | Duration experimenter look | 1 | 56 | 1.723 | 0.188 | **7.382** | **0.009** | 0.058 | 0.81 | | NA | | NA | Gamma log | | Frequency experimenter look | 1 | 56 | 0.575 | 0.566 | 1.537 | 0.22 | 0.615 | 0.436 | | NA | | NA | Gamma log | | Duration experimenter zone | 1 | 56 | 0.096 | 0.908 | 1.742 | 0.192 | 0.488 | 0.488 | | NA | | NA | Normal identity | | Frequency experimenter zone | 1 | 56 | 0.292 | 0.748 | 1.112 | 0.296 | 0.085 | 0.771 | | NA | | NA | Gamma log | | Duration experimenter contact | 1 | 56 | 2.117 | 0.13 | 0.569 | 0.454 | **15.797** | **>0.001** | | NA | | NA | Gamma log | | Frequency experimenter contact | 1 | 56 | **4.339** | **0.018** | 0.697 | 0.407 | **9.705** | **0.003** | | NA | | NA | Gamma log | | Duration owner look | 1 | 56 | 1.68 | 0.196 | 0.006 | 0.938 | 0.274 | 0.603 | | NA | | NA | Gamma log | | Frequency owner look | 2 | 56 | 1.26 | 0.292 | 0.002 | 0.965 | 2.356 | 0.13 | | NA | | NA | Gamma log | | Duration owner zone | 1 | 56 | 0.451 | 0.639 | **6.59** | **0.013** | 1.194 | 0.279 | | NA | | NA | Gamma log | | Frequency owner zone | 1 | 56 | 1.956 | 0.151 | 2.197 | 0.144 | 0.292 | 0.663 | | NA | | NA | Gamma log | | Duration owner contact | 2 | 56 | **4.389** | **0.017** | 1.095 | 0.3 | 2.93 | 0.092 | | NA | | NA | Gamma log | | Frequency owner contact | 2 | 56 | **6.996** | **0.002** | 3.175 | 0.08 | **8.137** | **0.006** | | NA | | NA | Gamma log | | Duration test-setup | 2 | 56 | 0.457 | 0.636 | 3.246 | 0.077 | 0.217 | 0.643 | | NA | | NA | Gamma log |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | Duration experimenter look | 1 | 55 | 1.023 | 0.366 | **7.682** | **0.008** | 0.013 | 0.909 | | NA | | NA | Gamma log | | Frequency experimenter look | 2 | 55 | **3.243** | **0.047** | 2.957 | 0.091 | 0.771 | 0.384 | | NA | | NA | Gamma log | | Duration experimenter zone | 2 | 55 | **3.304** | **0.044** | 1.655 | 0.204 | 0.552 | 0.461 | | NA | | NA | Normal identity | | Frequency experimenter zone | 1 | 55 | 0.97 | 0.386 | 1.185 | 0.281 | 0.051 | 0.822 | | NA | | NA | Gamma log | | Duration experimenter contact | 1 | 55 | 1.113 | 0.336 | 0.099 | 0.754 | **22.377** | **>0.001** | | NA | | NA | Gamma log | | Frequency experimenter contact | 1 | 55 | 2.711 | 0.075 | 0.125 | 0.725 | **12.305** | **0.001** | | NA | | NA | Gamma log | | Duration owner look | 1 | 55 | **4.477** | **0.016** | 0.319 | 0.575 | >0.001 | 1 | | NA | | NA | Gamma log | | Frequency owner look | 2 | 55 | **6.33** | **0.003** | 0.129 | 0.72 | 3.658 | 0.061 | | NA | | NA | Gamma log | | Duration owner zone | 1 | 55 | 0.14 | 0.87 | **8.106** | **0.006** | 2.42 | 0.126 | | NA | | NA | Gamma log | | Frequency owner zone | 1 | 55 | 1.536 | 0.224 | 2.347 | 0.131 | 1.529 | 0.222 | | NA | | NA | Gamma log | | Duration owner contact | 2 | 55 | **14.809** | **>0.001** | 3.802 | 0.056 | **5.438** | **0.023** | | NA | | NA | Gamma log | | Frequency owner contact | 1 | 55 | 0.028 | 0.972 | **4.285** | **0.043** | 3.318 | 0.074 | | NA | | NA | Gamma log | | Duration test-setup | 2 | 55 | 0.099 | 0.906 | 2.882 | 0.095 | 0.483 | 0.490 | | NA | | NA | Gamma log |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | Duration experimenter look | 2 | 91 | 2.472 | 0.09 | 0.043 | 0.837 | **10.475** | **0.002** | | NA | 2.912 | 0.091 | Gamma log | | Frequency experimenter look | 2 | 91 | 1.719 | 0.185 | 0.148 | 0.702 | **7.679** | **0.007** | | NA | 2.962 | 0.089 | Gamma log | | Duration experimenter zone | 1 | 92 | 1.031 | 0.351 | 0.113 | 0.737 | 0.006 | 0.941 | | NA | | NA | Gamma log | | Frequency experimenter zone | 1 | 92 | 1.09 | 0.34 | 0.698 | 0.406 | **9.046** | **0.003** | | NA | | NA | Gamma log | | Duration experimenter contact | 1 | 92 | 1.582 | 0.211 | 0.047 | 0.828 | 0.046 | 0.83 | | NA | | NA | Gamma log | | Frequency experimenter contact | 1 | 92 | 1.085 | 0.342 | 0.131 | 0.719 | 0.274 | 0.602 | | NA | | NA | Gamma log | | Duration owner look | 2 | 90 | 0.953 | 0.39 | **8.82** | **0.004** | **27.878** | **>0.001** | | NA | **10.394** | **0.002** | Gamma log | | Frequency owner look | 2 | 91 | 1.242 | 0.294 | 2.897 | 0.092 | **20.208** | **>0.001** | | NA | 2.711 | 0.103 | Gamma log | | Duration owner zone | 1 | 92 | 0.026 | 0.975 | 0.085 | 0.772 | 3.147 | 0.079 | | NA | | NA | Normal identity (logged) | | Frequency owner zone | 1 | 92 | 1.432 | 0.244 | 0.029 | 0.866 | **18.153** | **>0.001** | | NA | | NA | Gamma log | | Duration owner contact | 1 | 90 | 0.034 | 0.966 | 0.211 | 0.647 | **15.91** | **>0.001** | | NA | | NA | Gamma log | | Frequency owner contact | 1 | 92 | 0.268 | 0.765 | 0.177 | 0.675 | **8.065** | **0.006** | | NA | | NA | Gamma log | | Duration test-setup | 2 | 92 | 0.020 | 0.980 | 0.211 | 0.647 | 1.946 | 0.166 | | NA | | NA | Gamma log |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | Duration experimenter look | 2 | 93 | 3.365 | 0.07 | 0.087 | 0.769 | 0.056 | 0.813 | | NA | **7.796** | **0.006** | Gamma log | | Frequency experimenter look | 2 | 93 | 3.025 | 0.085 | 0 | 0.992 | 0.122 | 0.728 | | NA | 2.314 | 0.132 | Gamma log | | Duration experimenter zone | 1 | 94 | **6.252** | **0.014** | 0.312 | 0.578 | 0.135 | 0.714 | | NA | | NA | Gamma log | | Frequency experimenter zone | 1 | 94 | **6.86** | **0.01** | 0.643 | 0.425 | **4.821** | **0.031** | | NA | | NA | Gamma log | | Duration experimenter contact | 1 | 94 | 3.316 | 0.072 | 0.283 | 0.596 | 0.462 | 0.498 | | NA | | NA | Gamma log | | Frequency experimenter contact | 1 | 94 | 3.594 | 0.061 | 0.398 | 0.53 | 0.348 | 0.557 | | NA | | NA | Gamma log | | Duration owner look | 2 | 93 | **7.209** | **0.009** | **13.995** | **>0.001** | **25.596** | **>0.001** | 3.509 | 0.064 | | NA | Gamma log | | Frequency owner look | 2 | 93 | **5.209** | **0.025** | 1.729 | 0.192 | 1.807 | 0.182 | | NA | **3.947** | **0.05** | Gamma log | | Duration owner zone | 1 | 94 | **5.945** | **0.017** | 0.302 | 0.584 | 2.387 | 0.126 | | NA | | NA | Normal identity (logged) | | Frequency owner zone | 1 | 94 | **13.846** | **>0.001** | 0.104 | 0.747 | **10.559** | **0.002** | | NA | | NA | Gamma log | | Duration owner contact | 1 | 94 | 1.48 | 0.227 | 0.068 | 0.794 | **20.862** | **>0.001** | | NA | | NA | Gamma log | | Frequency owner contact | 1 | 94 | 2.879 | 0.093 | 0.043 | 0.836 | **9.025** | **0.003** | | NA | | NA | Gamma log | | Duration test-setup | 1 | 94 | 2.942 | 0.090 | 0.479 | 0.491 | 2.141 | 0.147 | | NA | | NA | Gamma log |
+Variation was found in SNP1 in golden retrievers (HWE: _p_ = 0.769) and in Labrador retrievers (HWE: _p_ = 0.153) but all wolves were fixed for the C allele ( Fig.
+For SNP2, variation was found in both golden retrievers (HWE: _p_ = 1), in Labrador retrievers (HWE: _p_ = 1) and in wolves (HWE: _p_ = 1) ( Fig.
+Additionally, when looking at the two types of Labrador retriever separately, there was a variation in both SNPs for both the common and the field type and the HWE was not significant for any of them (for SNP1 _p_ = 0.580 and _p_ = 1 and for SNP2 _p_ = 1 and _p_ = 1 for common and field, respectively) ( Fig.
+Allele frequencies for (A) the SNP BICF2G630798942 (SNP1) and (B) the SNP BICF2S23712114 (SNP2) for Labrador retrievers (common and field type), golden retrievers, and wolves.
+The Fisher’s exact test showed a significant difference in genotype frequencies between the common and field Labrador retrievers for both SNP1 ( _p_ < 0.001) and SNP2 ( _p_ = 0.031) ( Fig.
+For SNP1, AC was the most common genotype in common type Labrador retrievers whereas CC was the most common in the field type.
+In SNP2, AA was the most frequent genotype for both types, but the proportion between AA and AG differed between the types.
+In the unsolvable problem task, there were no associations between the SNPs and the time spent close to the test-setup.
+The final models for each social behavior variable as well as _F_ and _p_ statistics for all behaviors can be found in Tables 2 and ​and3.3.
+In the golden retriever, the genotype of SNP1 was significantly associated with physical contact, both on the frequency with the experimenter ( Fig.
+Golden retrievers with the AA genotype had a higher frequency of physical contact with the experimenter than individuals with AC.
+The AC genotype had instead more frequent physical contact with their owners than both AA and CC, and genotypes AA and AC had contact for a longer duration than individuals with the CC genotype.
+There was a significant difference between the genotypes in (A) the frequency of physical contact with the experimenter, and (B) and (C) the frequency and duration of physical contact with the owner.
+In the Labrador retrievers, we found a significant interaction between genotype of SNP1 and breed type for the duration of gazing at owner ( Fig.
+In the field type, dogs with CC genotype gazed longer at their owner than those with AC genotype, whereas there were no differences between the genotypes among the common type.
+Also, golden retrievers with the AG genotype had longer duration of physical contact with their owner than those with AA ( Fig.
+Associations between the genotype on the SNP BICF2S23712114 (SNP2) and the frequency/duration for behaviors scored in the unsolvable problem task in golden retrievers.
+There was a significant difference between the genotypes in (A) the duration in the experimenter zone, (B) the frequency of gazing at the experimenter, (C) and (D) the frequency and duration of gazing at the owner, and (E) the duration of physical contact with the owner.
+In the field type, AA individuals gazed longer at the experimenter and more often at their owner than AG individuals whereas there were no differences in the common type.
+Associations between the genotype on the SNP BICF2S23712114 (SNP2) and the frequency/duration for behaviors scored in the unsolvable problem task in Labrador retrievers.
+There was a significant difference between the genotypes in (A) and (B) the duration and frequency in the experimenter zone, (C) and (D) the duration and frequency in the owner zone, and (E) and (F) the frequency and duration of gazing at the owner.
+For (A) the duration of experimenter gaze, and (B) the frequency of owner gaze, there was an interaction between the SNP BICF2S23712114 (SNP2) and type (common or field) in Labrador retrievers.
+While genotype was associated with both behaviors in the field type Labradors, they were not associated with the behaviors in the common type.
+In golden retrievers, sex and intranasal oxytocin treatment (part of the experiment for which the dogs were originally recruited) were included in the models.
+In the analyses for both SNP1 and SNP2, sex had an effect on the duration dogs spent in the owner zone where males spent significantly more time with their owner than females ( _F_ 1, 56 = 6.590, _p_ = 0.013 for SNP1 model and _F_ 1, 55 = 7.374, _p_ = 0.009 for SNP2 model; males 35.02 ± 7.986 vs. females 16.72 ± 3.921).
+Additionally, in analyses for both SNPs, intranasal oxytocin treatment significantly decreased the duration ( _F_ 1, 56 = 15.797, _p_ < 0.001 and _F_ 1, 55 = 22.377, _p_ < 0.001; oxytocin 0.24 ± 0.109 vs. control 1.75 ± 0.591) and frequency ( _F_ 1, 56 = 9.705, _p_ = 0.003 and _F_ 1, 55 = 12.305, _p_ = 0.001; oxytocin 0.97 ± 0.481 vs. control 4.20 ± 1.603) of experimenter physical contact seeking as well as the frequency of owner physical contact ( _F_ 1, 56 = 8.137, _p_ = 0.006 and _F_ 1, 55 = 5.437, _p_ = 0.023; oxytocin 0.71 ± 0.377 vs. control 1.67 ± 0.615).
+In the models for both SNP1 and SNP2, the difference between males and females for the duration of gazing at their owner was significant where males looked for a longer time ( _F_ 1, 90 = 7.667, _p_ = 0.004 and _F_ 1, 93 = 13.995, _p_ < 0.001; 10.19 ± 2.72 vs. 4.42 ± 0.73 s for males and females, respectively).
+In the models for both SNPs, the frequency of owner and experimenter zone were significant as well as the duration of gazing at the owner and frequency and duration of owner physical contact.
+Field type Labradors visited the experimenter zone at a higher frequency ( _F_ 1, 92 = 9.046, _p_ = 0.003 and _F_ 1, 94 = 4.821, _p_ = 0.031; 3.27 ± 0.37 vs. 2.12 ± 0.22) as well as the owner zone ( _F_ 1, 92 = 18.153, _p_ < 0.001 and _F_ 1, 94 = 10.559, _p_ = 0.002; 4.21 ± 0.43 vs. 2.51 ± 0.23 times).
+The field type gazed longer at their owner ( _F_ 1, 91 = 10.475, _p_ = 0.002 and _F_ 1, 93 = 25.596, _p_ < 0.001; 5.74 ± 0.92 vs. 3.16 ± 0.50 s) and were in physical contact with their owner both more often ( _F_ 1, 92 = 8.065, _p_ = 0.006 and _F_ 1, 94 = 20.862, _p_ < 0.001; 0.77 ± 0.17 vs. 0.29 ± 0.10) and for a longer time ( _F_ 1, 90 = 15.910, _p_ < 0.001 and _F_ 1, 94 = 9.025, _p_ = 0.003; 0.70 ± 0.19 vs. 0.09 ± 0.04).
+Additionally, in the model for SNP1, there were significant differences between the types in frequency and duration of gazing at the experimenter as well as frequency of owner gazing.
+The field type gazed both longer and more often at the experimenter ( _F_ 1, 91 = 10.475, _p_ = 0.002 and _F_ 1, 91 = 7.679, _p_ = 0.007) and more often at their owner ( _F_ 1, 91 = 20.208, _p_ \> 0.001).
+The means of the duration and frequency for looking at experimenter were 5.74 ± 0.92 s and 4.02 ± 0.49 times in field type vs. 3.16 ± 0.50 s and 2.63 ± 0.34 in the common type.
+In a previous genome-wide association study on beagles tested in the unsolvable problem paradigm, Persson et al. (2016) identified two SNPs on chromosome 26, BICF2G630798942 (SNP1) and BICF2S23712114 (SNP2), associated with social interactions directed toward humans.
+Here, we show that both SNPs are also associated with human-directed social behavior in two additional dog breeds, golden and Labrador retriever.
+We also show that genotype frequencies for the two SNPs differ between wolves and dogs, between breeds and between recently selected breed types.
+In a population of laboratory beagles, Persson et al. (2016) found a significant association between SNP1 and the duration of physical contact and duration of human proximity.
+SNP1 and SNP2 are both located on chromosome 26, and within the linkage disequilibrium regions five possible associated genes are present.
+The marker SNP1 is located in an intron of the gene _SEZ6L_ and there are no other genes present in the same linkage block.
+Previously, _SEZ6L_, _ARVCF_, _COMT_, and _TXNRD2_ have been associated with social disorders and schizophrenia in humans ( Chapman et al., 2015; Mas et al., 2010; Sanders et al., 2005; Xu et al., 2013).
+In the present study, we verify that the association between these genomic regions and human-directed social behavior are not specific to the previously studied beagles.
+Similar effects were found in two other breeds, Labrador and golden retrievers, tested in the same unsolvable problem task as the beagles.
+The genotype of SNP1 had an effect on physical contact seeking with both experimenter and owner in the golden retriever and was associated with a difference in owner gazing between Labrador types.
+The genotype of SNP2 was primarily associated with eye contact seeking with the experimenter as well as owner in both golden and Labrador retrievers.
+Genotype and sex interactions were identified in the beagles for SNP1 ( Persson et al., 2016) but this was not present in the retrievers.
+Previous research has found associations between polymorphisms in the oxytocin receptor gene and social behavior both during problem solving and in additional situations ( Kis et al., 2014; Persson et al., 2017).
+Another gene of interest is the dopamine receptor D4 gene that has been associated with gazing toward humans ( Hori et al., 2013).
+For example, comparative studies have shown that dogs have a higher sociability in general than wolves ( Bentosela et al., 2016) and, specifically, that dogs seek more human contact when faced with a problem than wolves do ( Heberlein et al., 2016; Miklósi et al., 2003; Udell, 2015).
+It seems that genetic variants contributing to human-directed social abilities have been selected during domestication and, thus, the two genomic regions investigated in the present study may have been targeted.
+Variation in sociability toward humans has a significant genetic component, which has been shown by heritability estimates ( Persson et al., 2015; Sundman et al., 2016; Van Der Waaij, Wilsson & Strandberg, 2008; Wilsson & Sundgren, 1998) and this is a requirement for selection.
+The former polymorphism may thus not exist or is rare among wolves and could even have appeared after the split with dogs, whereas the latter is present in both species.
+However, as this current study has investigated the SNP genotypes in only a very limited sample of Scandinavian wolves, these results should be cautiously interpreted.
+A recent study describing the genetic architecture of a dog x wolf crossbreed, the Czechoslovakian Wolfdog, found regions containing excess of wolf and dog ancestry genes respectively ( Caniglia et al., 2018).
+When using an unsolvable problem paradigm to study human-directed social behavior we should also consider the dogs’ persistence to solve the problem and their food motivation.
+Previous studies have, for example, found a negative correlation between persistence and eye-contact duration ( Brubaker et al., 2017), and that more persistent dogs show a longer latency until they gaze at the present human ( Marshall-Pescini et al., 2017).
+On the other hand, in both Persson et al. (2015) and Sundman et al. (2018), test-setup interactions form a component separate from social behaviors in a principal component analysis.
+However, neither of the two SNPs in the present study were associated with the duration the dogs spent in proximity of the test-setup, and thus, they seem to be associated with human-directed social behavior rather than persistence.
+Previous studies have reported breed differences in behaviors related to human communication ( Passalacqua et al., 2011; Sundman et al., 2018; Udell et al., 2014).
+We can study recent selection by examining established breeds recently diverged into two types due to different breeding goals; for example, dogs suitable for field-work vs. pet and conformation dogs.
+During recent selection, it seems that the field type has increased its human-contact seeking behavior in comparison to the common type, although environmental causes cannot be discarded.
+These genetic markers have thus been affected by recent selection in two selection lines of dogs that also differ in social abilities, lending further support to the association between the genomic region and human-directed social behavior.
+We suggest that these loci could have been affected by domestication and selection for sociality in dogs and that genetic variants linked to the SNPs may have been targeted during domestication.
+Hence, genes within the linkage disequilibrium of these genetic markers are of high interest for further investigation of the genetics behind the impressive social skills of dogs.
+Page 2 shows SNP1 and experimenter-directed interactions; page 3 shows SNP1 and owner-directed interactions; page 4 shows SNP2 and experimenter-directed interactions; page 5 shows SNP2 and owner-directed interactions.
+We wish to thank the enthusiastic dog owners who allowed their dogs to participate in this project as well as Borås Zoo and Kolmården Wildlife Park for kindly providing us with wolf samples.
+Mia E. Persson conceived and designed the experiments, performed the experiments, analyzed the data, contributed reagents/materials/analysis tools, prepared figures and/or tables, authored or reviewed drafts of the paper, approved the final draft.
+Ann-Sofie Sundman conceived and designed the experiments, performed the experiments, analyzed the data, contributed reagents/materials/analysis tools, prepared figures and/or tables, authored or reviewed drafts of the paper, approved the final draft.
+Per Jensen conceived and designed the experiments, contributed reagents/materials/analysis tools, authored or reviewed drafts of the paper, approved the final draft.
+These studies were carried out in accordance with the relevant guidelines and the ethical permit approved by the regional ethical committee for animal experiments in Linköping, Sweden (permit number: 51-13).
+Hori et al. (2013) Hori Y, Kishi H, Inoue-Murayama M, Fujita K. Dopamine receptor D4 gene (DRD4) is associated with gazing toward humans in domestic dogs ( _Canis familiaris_) Open Journal of Animal Sciences.
+Horn, Huber & Range (2013) Horn L, Huber L, Range F. The importance of the secure base effect for domestic dogs—evidence from a manipulative problem-solving task.
+Kis et al. (2014) Kis A, Bence M, Lakatos G, Pergel E, Turcsan B, Pluijmakers J, Vas J, Elek Z, Bruder I, Foldi L, Sasvari-Szekely M, Miklosi A, Ronai Z, Kubinyi E. Oxytocin receptor gene polymorphisms are associated with human directed social behavior in dogs ( _Canis familiaris_) PLOS ONE.
+Konno et al. (2018) Konno A, Inoue-Murayama M, Yabuta S, Tonoike A, Nagasawa M, Mogi K, Kikusui T. Effect of canine oxytocin receptor gene polymorphism on the successful training of drug detection dogs.
+Lakatos et al. (2012) Lakatos G, Gácsi M, Topál J, Miklósi Á. Comprehension and utilisation of pointing gestures and gazing in dog–human communication in relatively complex situations.
+Marshall-Pescini et al. (2017) Marshall-Pescini S, Rao A, Virányi Z, Range F. The role of domestication and experience in ‘looking back’ towards humans in an unsolvable task.
+Miklósi et al. (2003) Miklósi Á, Kubinyi E, Topál J, Gácsi M, Virányi Z, Csányi V. A simple reason for a big difference: wolves do not look back at humans, but dogs do.
+Miklosi et al. (2000) Miklosi A, Polgardi R, Topal J, Csanyi V. Intentional behaviour in dog-human communication: an experimental analysis of “showing” behaviour in the dog.
+Persson et al. (2015) Persson ME, Roth LSV, Johnsson M, Wright D, Jensen P. Human-directed social behaviour in dogs shows significant heritability.
+Persson et al. (2017) Persson ME, Trottier AJ, Belteky J, Roth LSV, Jensen P. Intranasal oxytocin and a polymorphism in the oxytocin receptor gene are associated with human-directed social behavior in golden retriever dogs.
+Persson et al. (2016) Persson ME, Wright D, Roth LS, Batakis P, Jensen P. Genomic regions associated with interspecies communication in dogs contain genes related to human social disorders.
+Soproni et al. (2001) Soproni K, Miklosi A, Topal J, Csanyi V. Comprehension of human communicative signs in pet dogs ( _Canis familiaris_) Journal of Comparative Psychology.
+Sundman et al. (2016) Sundman AS, Johnsson M, Wright D, Jensen P. Similar recent selection criteria associated with different behavioural effects in two dog breeds.
+Topal et al. (2005) Topal J, Gacsi M, Miklosi A, Viranyi Z, Kubinyi E, Csanyi V. Attachment to humans: a comparative study on hand-reared wolves and differently socialized dog puppies.
+Van Der Waaij, Wilsson & Strandberg (2008) Van Der Waaij EH, Wilsson E, Strandberg E. Genetic analysis of results of a Swedish behavior test on German shepherd dogs and labrador retrievers.
+An example of this phenomenon can be evidenced in allele frequency changes and skewed trait distributions driven by persistent human-directed selective pressures in domesticated species.
+Dog domestication is linked to several genomic variants; however, the functional impacts of these variants may not always be straightforward when found in non-coding regions of the genome.
+Four polymorphic transposable elements (TE) found within non-coding sites along a 5 Mb region on canine CFA6 have evolved due to directional selection associated with heightened human-directed hyper-sociability in domesticated dogs.
+We found that the polymorphic TE in intron 17 of the canine _GTF2I_ gene, which was previously reported to be negatively correlated with canid human-directed hyper-sociability, is associated with altered chromatin looping and hence distinct _cis_-regulatory landscapes.
+We reported supporting evidence of an _E2F1_-DNA binding peak concordant with the altered loop and higher expression of _GTF2I_ exon 18, indicative of alternative splicing.
+Overall, we reported evidence suggesting an intriguing molecular convergence between the emergence of hypersocial behaviors in dogs and the same genes that, when hemizygous, produce human Williams Beuren Syndrome characterized by cranio-facial defects and heightened social behaviors.
+The addition of multi- _omic_ data to candidate loci findings has now uncovered large-effect variants that act as master regulatory loci shaping behavior, by rapidly innovating pleiotropic effects on transcription, chromatin conformations, and the underlying biological pathways \ [4, 5, 6\].
+More recently, genomic architecture has been implicated in the evolution of social behavior due to mechanisms of tightly linked supergene complexes \ [7, 8\], copy number of structural variants (SVs) \ [9, 10\] and, to a lesser extent, transposable elements (TEs) \ [11, 12\].
+Such elements are targeted by the genome surveillance machinery for TE inactivation through various mechanisms, including DNA methylation and histone modifications \ [13, 14\], with the epigenetically silenced TEs exerting cis-regulatory impacts on proximal (i.e., within 100 nucleotides) transcriptionally active sequences \ [15, 16\].
+TEs also harbor binding sites for transcription factors and regulatory proteins that impact higher order three-dimensional (3D) chromatin structure \ [17\], making them strong candidates for drivers of phenotypic change and even social evolution.
+Species domestication results from the rapid and significant phenotypic evolution in response to novel human-directed selective pressures, exemplified in the Farm-fox experiment where behavioral and morphologic evolution was documented \ [18\].
+Among the several well-known morphological and behavioral changes that occurred during the domestication of gray wolves to dogs \ [22, 23, 24\], human-directed sociability is one of the prominent phenotypes suspected to have been selected during domestication \ [25\].
+Through strong directed selection, this social phenotype has provided feedback to the underlying molecular infrastructure, evidenced by moderate estimates of heritability (h2, social interactions towards humans = 0.23) with notable differences across breeds (h2, willingness to make contact with humans: German shepherds = 0.38, Rottweilers = 0.03) \ [28\].
+Part of the supportive molecular infrastructure includes four previously mapped large-effect polymorphic retro-transposable elemental (TE) sequences, found on canine chromosome CFA6 with copy number of the derived allele positively correlated with human-directed hyper-sociability \ [27\].
+The derived alleles are located within or proximal to three genes: two TE insertions in intron 1 of Williams-Beuren Syndrome Chromosome Region 17 ( _WBSCR17_), the lack of an insertion in intron 17 of the General Transcription Factor 2-I ( _GTF2I_), and one insertion in intron 5 of _POM121_ Transmembrane Nucleoporin ( _POM121_) \ [27\].
+Within dogs, vonHoldt et al. (2017) \ [27\] reported that the allele containing the TE insertion in gene _GTF2I_ was the minor allele ( _f_ = 0.31 or 5/16 dogs).
+Concordant with the neural crest cell hypothesis \ [29\], _GTF2I_ is a plausible master regulator for domestication-driven morphological and behavioral phenotypes due to its involvement in neural tube closure and neural crest cell migrations \ [30\].
+Perhaps more striking is that artificially constructed hemizygous knockouts of _GTF2I_ are associated with heightened sociability in murine systems \ [32\] and a large-scale naturally occurring hemizygous deletion on human chromosome 7, which includes _GTF2I_, causes Williams Beuren Syndrome (WS) \ [33\], a neurodevelopmental disorder that is characterized by cranio-facial defects and extremely high levels of social behaviors \ [34, 35\].
+Although the TE found within _GTF2I_’s intron is strongly associated with the evolution of hyper-sociability in domestic dogs, the proximate mechanisms are currently undescribed.
+This is especially compounded by the fact that the high-effect TE is located within a non-coding region, 700 nucleotides from the nearest exon, and is relatively small (only 187 bp) as compared to most high-impact structural variants located in intronic and intergenic regions \ [27\].
+With past evidence for associative altered _cis_\- regulation in canine blood \ [36\], we hypothesize that the copy number of this intronic TE shifts the 3D chromatin state and the _cis_\- regulatory landscape, which further impacts downstream transcriptional activities.
+We investigated chromatin architecture and gene expression differences associated with _GTF2I_’s intronic TE in dog brainstems, a tissue relevant to social behaviors as it contains neuronal projections for glutamatergic, serotonergic and dopaminergic neurons \ [37\].
+We found that the polymorphic TE located in intron 17 of _GTF2I_ is associated with altered chromatin looping with its own intron 1 and putative alternative splicing of this gene.
+At a more global level, we find differences in pathways related to the extra-cellular matrix associated with the ancestral and derived forms of this gene.
+We collected data from brainstem tissue (pons) of six male dogs (12–16 years old) from three genomic dimensions: targeted chromatin conformation capture sequencing ( _Capture C_) at the polymorphic TE site, _E2F1_ and _H3K27ac_ chromatin immunoprecipitation sequencing ( _ChIP-seq_), and RNA sequencing ( _RNA-Seq_).
+Three of the six dogs were heterozygous for the ancestral allele, which contains the TE insertion, while the other three dogs were homozygous for the derived allele that lacked a TE insertion \ [27\] (Table S 1).
+We found that the TE sequence itself was enriched for binding motifs for the transcription factor _E2F1_ and its co-factors (see Supplementary Text).
+In humans, _E2F1_ has binding sites at genes within 1 Mb upstream and downstream (i.e. in _cis_\- conformations) of _GTF2I_ (see Supplementary Text).
+Samples that carried at least one copy of the ancestral allele exhibited unique 3D contacts, which we quantified from the contact frequency at each site relative to the surrounding background \ [38\], with three regions on CFA6: intron 1 of _GTF2IRD2_ at 5.65–5.67 Mb, intron 1 of _GTF2I_ at 5.82–5.84 Mb, and upstream of _GTF2I_ spanning 5.85–5.87 Mb (log _q_ < -10) (Fig.
+When samples carried the derived allele lacking the TE, we discovered unique contacts with a novel CFA6 bin at 5.73–5.75 Mb (log _q_ < -10) (Fig.
+We conducted a negative binomial Wald Test in the R package _DiffBind_, to investigate differences in _ChIP_ peak enrichment between samples as a function of mean signal quantified by normalized read counts in each peak bin \ [39\].
+Hence, _ChIP_ peaks with significant differences, hereafter referred to as “differentially enriched peaks”, are those whose signal strength differs more between samples with different genotypes than among samples with the same genotype \ [39\].
+We found significant differences in the _ChIP_ peak signal for _E2F1_ at CFA6:5,822,073–5,822,473 within intron 1 of _GTF2I_ (log2 Fold Change \Derived/Ancestral\] = -3.12; _p_ = 6.73 × 10–4; _p_ _adj_ = 0.03), which is located within the TE containing contact site at 5.82–5.84 Mb (Figs.
+We analyzed exon expression of the six tissues which were controlled for age and sex, to account for any differences that are developmental-stage dependent expression patterns for _GTF2I_ isoforms \ [40, 41\] (see Supplementary Text).
+We used an R package _JunctionSeq_ to conduct a likelihood ratio test to determine the effects of TE genotypic state on exon or splice junction expression \ [42\].
+We quantified exon expression using reads mapped within the exonic bins and splice junction expression using reads mapped across two exons \ [43\], such that these reads visually mimic a discordant alignment similar to a deletion representing the spliced-out intron.
+We found higher usage of exon 18 (log2 Fold Change\Derived/Ancestral\] = -0.528, _p_ = 0.001, _p_ _adj_ = 0.138) and evidence for a splice junction between exon 17 and 18 (log2 Fold Change\[Derived/Ancestral\] = -0.783, _p_ = 0.001, _p_ _adj_ = 0.141) as a function of the TE insertion state at _GTF2I_ (Figs.
+Visualization of the target region with chromosomal coordinates in Mb (top line) along canine chromosome CFA6 for _Capture C_ contacts (top), average _E2F1 ChIP-Seq_ Coverage (middle) with differential peak (\*), and average normalized exon expression with exon 18 (§) values at _GTF2I_ (bottom) for samples **A** heterozygous for the ancestral TE insertion in _GTF2I_ and **B** homozygous for the derived allele lacking the TE insertion in _GTF2I_.
+For panels **C-E**, the ancestral state refers to the TE insertion in _GTF2I,_ while the derived allele is the lack of the TE insertion.
+Black circles show each data point, bar heights correspond to group means, and error bars correspond to standard errors
+Since _GTF2I_ encodes a transcription factor regulating the expression of several genes \ [6\], we evaluated the potential downstream impacts on global biological pathways as a function of TE genotypic state at _GTF2I_.
+First, we looked for differentially expressed genes across genome and found 10 genes differentially expressed as a function of the TE copy number at _GTF2I_ (Fig.
+Since the construction of gene modules requires at least 12 samples \ [44\], we collected _RNAseq_ data from the brainstem tissue of 16 additional dogs across ages, sexes and breeds (Table S 1) and conducted these analyses on all 22 samples with _RNAseq_ data, while accounting for confounding variables ( _Supplementary Information: Materials and Methods_).
+We generated signed gene networks and quantified module eigengene (ME) values, to represent the dimensionality reduced (i.e. the first principal component) gene expression values from all genes in the module, which are broadly associated with changes in biological pathways \ [44\].
+Since signed modules contain co-expressed genes with the same directionality of expression change (i.e., all with increased or decreased expression for a given condition) \ [44\], these were preferred over the generation of unsigned modules to ease the interpretation of results and identify biological pathways with a general increased or decreased enrichment in the derived state of _GTF2I_.
+We found a single gene module with higher expression for samples carrying the ancestral _GTF2I_ TE insertion (Pearson Correlation coeff \Derived\] = -0.43; _p_ = 0.047; padj = 0.63); however, this did not survive multiple comparison corrections (Figs.
+Since this was the only gene module meeting the significance threshold of _p_ < 0.05, we hereafter refer to this module as the “differentially expressed module”.
+The top ranked gene ontology term is for the cellular component “extra-cellular region” ( _p_ _adj_ = 8.54 × 10–14), and the top KEGG pathway \ [46\] is for “Extra-Cellular Matrix (ECM) receptor interaction” ( _p_ _adj_ = 3.81 × 10–8) (Fig.
+We further found _BNC2_ among the top ranked transcription factors candidates that putatively regulates genes in the differentially expressed gene module (Mean Rank = 10.33; Percentage overla _p_ = 28.6%; _Enrichr_\ [47, 48, 49\] FDR = 5.68 × 10–18; _GTEx_\ [50\] FDR = 2.51 × 10–5; _ARCHS4_ \ [51\] FDR = 8.70 × 10–17).
+ME expression values have significantly different means ( _t_ = 2.1348, _df_ = 19.744, _p_ = 0.0455) between samples containing the ancestral and derived TE genotypes at GTF2I.
+**B** Gene ontology (GO) hits for genes in the differentially expressed module displaying their -log10 _p_ for each GO categories: Molecular Function (MF), Biological Processes (BP), Cellular Component (CC), Kyoto Encyclopedia of Genes and Genomes pathways (KEGG) and Human Phenotype (HP).
+Given _GTF2I_’s multi-functional role in transcriptional and translational regulation \ [6, 52, 53\], we additionally identified binding motifs at differentially enriched _E2F1_ and _H3K27ac_ peaks (as identified by _DiffBind analyses_) between samples with differential _GTF2I_ genotypes.
+Differentially enriched _E2F1_ peaks with higher signal in samples with the derived allele (log2FC > 2; FDR < 0.1) were significantly enriched for binding motifs of _ZNF740_ (e = 6.6 × 10–6 to 9.1 × 10–3; percent matching = 70.0%).
+However, differentially enriched _E2F1_ peaks with higher signal in samples with the ancestral allele (log2FC > 2; FDR < 0.1) did not present any significantly enriched motifs.
+Functional changes driven by intronic TEs have been well studied, although typically, such TEs are large in size and physically proximal to the nearest exon (i.e., within 100 nucleotides) or splice sites \ [56, 57, 58\].
+To our knowledge, the study provides the first evidence for a gene loop that is associated with social evolution as a consequence of animal domestication.
+Our proposed model for the altered loop state is that the TE offers a binding site for an _E2F1_ co-factor with subsequent recruitment of the _E2F1_ transcription factor itself, which binds to an intron 1 site of _GTF2I_.
+The loop and its concordant _E2F1_ peak are lost when _GTF2I_ does not contain the TE in the derived state, which could be a consequence of binding site loss for the _E2F1_ co-factor and the lack of _E2F1_ in _GTF2I_ intron 1.
+We instead relied on chromatin conformation evidence that emerged from the polymorphic TE and a concordant _E2F1_ peak at the putative contact site.
+In addition, our _in-silico_ discovery also suggested that a co-factor of _E2F1_, such as _Sp1_ (see Supplementary Text), rather than _E2F1_ itself, could bind to the polymorphic TE.
+Strikingly, we find no changes in expression levels of _GTF2I_ itself; rather, we find an associated change in a single exon of _GTF2I_ after controlling for confounding variables.
+While the differential exon usage analysis marginally misses the FDR < 10% threshold, multiple comparison corrections were performed with respect to all exons in the genome, including those of non-coding RNAs.
+Given this large sample size of exons, we still indicate that these results have the potential to be biologically meaningful and worthy of follow-ups for isoform discovery through long-read sequencing methods such as Iso-Seq.
+While we have not identified a causal mechanism linking the _E2F1_ loop and splicing, _E2F1_ is known to interact with splice-impacting co-factors such as the p100/TSN complex and regulates the splicing patterns of its target genes \ [59\].
+An alternative mechanism is that the altered looped state itself, rather than the molecular functions of _E2F1_, contributes to splicing that is facilitated by alternate promoter adoption whereby different promoters could express different isoforms of the same gene \ [60, 61\].
+The TFII-I loop-helix-loop domains are involved in protein–protein interactions \ [53, 62\] and changes to the R3 domain could hence alter protein interactions with TFII-I.
+Although we did not directly investigate the changes in protein interactions with TFII-I to establish causality, our correlative evidence suggests the convergent outcome of reduced expression of _BNC2_ and reduced expression of a gene module that includes _BNC2_ target genes in samples that lack the TE insertion in _GTF2I_.
+Altered _GTF2I_ exon 18 expression could drive changes in TFII-I proteomic interactions with _USF1_ and _MYC_, thereby impacting molecular processes affecting canine hypersocial behavior.
+While our findings suggest that samples with the ancestral allele of the TE insertion carry lower levels of global _H3K27ac_, this difference was not significant.
+This could be due to a variety of reasons that include an underpowered design for the specific analyses type, combinatorial confounding impacts of other histone deacetylases and nuanced proteomic impacts on TFII-I such that interactions with some proteins, and not others, are affected.
+Hence, future efforts to determine interactomes of TFII-I in samples with ancestral and derived forms of _GTF2I_ could help identify downstream biological impacts of the TE locus.
+Our results pertaining to gene module differences suggest that biological pathways related to the extra-cellular matrix show reduced expression.
+We also see functional changes related to the gene elastin ( _ELN_), which is included in the differentially expressed gene module.
+Patients with WS can have varying lengths of deletions at the 7q11.23 locus, and 90% of patients with WS have a hemizygous deletion of _ELN_ \ [66\].
+However, our results suggest that the derived _GTF2I_ allele recapitulates some molecular characteristics of WS in domestic dogs: altered expression of extra-cellular matrix-related pathways and variants impacting _GTF2I_ function.
+Such is the case for the canine intronic TE at _GTF2I_, which shows distinctive allele frequency differences between the ancestral gray wolf and dog genomes \ [27\], with the wolf genome ‘co-opting’ the TE and the dog genome ‘purging’ it.
+While showing clear signatures of selection, functional impacts of TEs outside of coding regions are currently understudied across evolutionary scenarios, with most investigations limited to first-order genomic structure, overall TE distribution across the genome, and their putative relationship to candidate loci \ [12\].
+While more work is warranted to prove causality, we emphasize the relevance of high-effect non-coding variants and their role in regulating complex phenotypes in non-model systems by reporting their potential and indirect impacts on gene regulation through altered chromatin states.
+While our study does not prove this, we provide an evolutionary interpretation where the non-looped state of _GTF2I_ could possibly provide a dog-specific fitness advantage from increased human-directed sociability.
+Molecular changes associated with an altered regulatory landscape can also introduce fitness costs \ [68\] due to a loss in existing transcriptional machinery that could impact the extra-cellular matrix and activity of the multi-functional _GTF2I_ gene, which could be validated by future efforts.
+We hope to provide a new framework for exploring the molecular infrastructure of social evolution by viewing the genome as more than a culmination of base-pairs and combining higher-order information on 3D genome architecture.
+Due to a lack of ability to do functional experiments and CRISPR-based gene editing in dogs, the polymorphic TE locus within _GTF2I_ is only correlatively linked to hyper-social behaviors.
+We also caution that results pertaining to differential gene module analysis did not survive FDR corrections, owing to the presence of a single gene module passing a significance threshold of _p_ < 0.05.
+For these flash-frozen samples, we carried out _Capture C_, targeted at the polymorphic _GTF2I_ TE site (CanFam 3.1; CFA6:5,753,797–5,753,983), and _ChIP-Seq_ to quantify E2F1-DNA binding peaks and H3K27ac regions at chromatin loop bases.
+We collected RNA-seq data to further investigate differences in local gene regulation associated with the chromatin loops for the six samples.
+Kuleshov MV, Jones MR, Rouillard AD, Fernandez NF, Duan Q, Wang Z, Koplev S, Jenkins SL, Jagodnik KM, Lachmann A, McDermott MG, Monteiro CD, Gundersen GW, Ma’ayan A. Enrichr: a comprehensive gene set enrichment analysis web server 2016 update.
+Xie Z, Bailey A, Kuleshov MV, Clarke DJB., Evangelista JE, Jenkins SL, Lachmann A, Wojciechowicz ML, Kropiwnicki E, Jagodnik KM, Jeon M, Ma’ayan A. Gene set knowledge discovery with Enrichr.
+Conceptualization: DT, BVH; Methodology: DT, EK, SS, HF, AM, BVH; Investigation: DT, HF, BVH; Visualization: DT, BVH; Funding acquisition: DT, EK, BVH, HF; Project administration: DT, BVH; Supervision: BVH; Writing – original draft: DT, BVH; Writing – review & editing: DT, EK, SS, HF, AM, BVH.
+**Open Access** This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made.
+The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material.
+If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.
+The Creative Commons Public Domain Dedication waiver ( http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.
+In the study, scientists discovered that the brain waves of dogs and humans are aligned when they engage in friendly interactions.
+This phenomenon, known as interbrain coupling or neural synchrony, is well known in humans, underpinning our social experiences, but this is the first time it’s been demonstrated to occur across species.
+To some, this discovery might not come as much of a surprise as dogs, the first animals to be domesticated by humans as early as 40,000 years ago, are considered by many to be more than just pets.
+“During the long history of domestication, dogs have developed intimate and effective social interactions with humans,” said Yong Zhang, one of the study’s researchers.
+“Dogs have evolved to read, understand, and respond to a wide range of human emotional states and communicative signals through behaviors, facial expressions, and even vocal tones, offering an extraordinary level of active companionship that is not often seen in other domesticated or companion animals,” Zhang and his collaborators noted in their paper.
+They extended their study to examine the interbrain coupling between humans and dogs carrying a genetic variation associated with autism spectrum disorder and explored how it might be restored with the psychedelic drug LSD.
+The researchers measured the EEG signals of the dogs and humans in different brain regions in three scenarios: in separate rooms without social interactions and with and without petting and mutual gazing — looking into the eyes of the dog — in the same room for five minutes per day.
+On the first day of the experiment, the dogs and their human partners were strangers, as the researchers were interested in how interbrain activity coupling changed as they became more familiar with each other.
+The researchers found that in all the human–dog pairs, interbrain activity coupling increased from the first day to the fifth day.
+“As far as we know, interbrain coupling is closely associated with social interactions, where the more and higher quality the social interactions, the higher the interbrain coupling,” Zhang commented.
+In three of the ten dogs, the researchers extended the experiment to ten days and found that interbrain activity coupling plateaued on the seventh day.
+“If a human interacts with their pet dog for years, we would assume a stronger interbrain coupling in the pair than that in the human–laboratory dog pair interacting for only a week,” he speculated.
+Individuals on the autism spectrum often have difficulties communicating and socially interacting with other people, and dogs can experience similar social deficits when bred to have the same genetics that lead to autism.
+They found that dogs carrying this gene alteration experienced much weaker interbrain coupling with their human partner than the normal dogs in the control group when subjected to the same five-day social experiment.
+Motivated by research findings that the psychedelic drug lysergic acid diethylamide, known as LSD, enhances social behavior in mice, Zhang and his team wondered if it could also restore the impaired interbrain coupling between humans and beagles bearing the _Shenk3_ variation.
+This improvement continued up to day five of the experiment without subsequent doses of the drug, but the mechanism for LSD’s effectiveness in rescuing interbrain coupling is currently unclear.
+Zhang told us that the next step is to understand how LSD improves interbrain coupling between the dog model of autism and humans so that an effective intervention can be developed.
+Yes, I have read and agree to Wiley’s Privacy Policy and Wiley’s Terms of Use.
+**.gov** website belongs to an official government organization in the United States.
+Locked padlock icon ) or **https://** means you've safely connected to the .gov website.
+As a library, NLM provides access to scientific literature.
+Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health.
+**Open Access** This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made.
+If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.
+To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.
+Most dog owners in Western countries regard their dogs as companions or family members, prompting extensive research on the human-animal bond.
+However, many studies rely on broad categories or single dimensions, such as satisfaction or attachment, which can oversimplify the complexity of these relationships.
+In contrast, our study employed a multifaceted approach, examining the dog-owner bond across 13 relationship scales and comparing these scales to four different types of human relationships to reveal the human-like roles of dogs within a family.
+Participants ( _N_ = 717) characterized their relationships with their dog and four human partners: closest kin, romantic partner, best friend, and child, using the Network of Relationships Inventory.
+Characterizing the dog-owner relationship as a set of social provisions offers a valid way to evaluate relationships with dogs, providing an alternative theoretical framework to attachment theory for comparing dog-human and human-human relationships.
+Dogs have been a part of human society longer than any other domesticated species, but their roles have evolved significantly over time.
+However, there is also evidence of dogs being kept for sentimental reasons from the very beginning2.
+Over millennia, the proportion of companion dogs increased, and our relationship with them evolved in response to changes in human society and needs.
+By the 19th century, dogs were referred to as “man’s best friend,” indicating their value beyond practical use, being appreciated for their loyalty and companionship.
+More recently, dogs have come to be viewed as child substitutes, as evidenced by terms such as “pet parents” and “fur baby”5, and the establishment of Pet Parent’s Day in 2007 by Veterinary Pet Insurance ( https://www.nationaldaystoday.com/national-pet-parents-day/).
+Attachment encompasses four sub-behaviour systems: proximity maintenance, separation distress, safe haven, and secure base, which help maintain safety in stressful situations.
+Dogs exhibit all four behaviour systems7, 8, and, in addition, the dog-human relationship shares many similarities with child-parent relationships in aspects such as power balance, dependence, nurturance, and teaching9.
+For instance, the dog-owner attachment could be seen as more reciprocal than the child-caregiver bond9 because dogs often serve as attachment figures for their owners10– 12.
+Some people seek companionship and entertainment, while others need consistency, trust, and unconditional acceptance from their dogs, resembling adult attachment relationships with friends or romantic partners11, 13.
+While some dogs are still kept solely for protection or work, in Western societies, most have lost a specific affordance but form a significant bond with their owners.
+Turner14 identified six stages of the family life cycle during which pets fulfil different roles.
+As families grow, pets become companions or sibling-substitutes for children, and later, the first pet (and responsibility) of adolescents, who often take on their care17.
+In later stages, such as the empty nest and family reorganization, pets may once again play a substitute role, helping cope with potential losses and mitigating loneliness.
+This theoretical overview is also supported by empirical research.
+For example, owner age has been shown to affect how and from where owners acquire a dog18, as well as what characteristics they consider important when selecting a dog19.
+Many studies attempt to quantify dogs’ roles in their owners’ lives and categorize these relationships.
+Typically, owners are asked to select categories such as ‘family member,’ ‘child,’ ‘pet,’ or ‘colleague’20, 23– 26.
+However, these categories lack clear definitions and real-life relevance.
+For instance, when owners report that they consider their dogs to be children, it does not necessarily mean the dogs fulfil all child roles or are treated exactly like children.
+These categories might serve only as labels, and their use could be strongly influenced by (social) media trends rather than reflecting actual relationships.
+Moreover, while studies predominantly report a very high proportion of dogs regarded as ‘family members’, this designation could mean anything from newborn to distant cousin, providing little insight into the actual quality of the relationship.
+Finally, treating dog ownership as a simple categorical attribute can be misleading, as individuals are unlikely to be entirely consistent in their attitudes and actions toward the dog27.
+Even studies using quantitative measures often rely on single continuums, such as general satisfaction (e.g28).
+However, the most significant issue is that these evaluations apply only to animals and cannot be integrated into any human relationship framework.
+Although the attachment theory can be applied to both human and dog relationships, allowing for a direct comparison between them33, there are aspects of the relationship that are not captured by this framework.
+To better understand a dog’s place in our social network, we could explore the forms of emotional and social support they provide.
+Our social network includes various partners (e.g., parents, friends, colleagues) who offer different types of support (e.g., admiration, consistency, aid, nurturance).
+Relationships can be characterized by patterns of these features, such as the level of companionship, conflict, or power dynamics (e.g., who makes decisions in a relationship).
+Many characteristics describing human relationships also apply to human-dog relationships3, 36, which could offer an alternative framework for studying the dog-human relationship in a directly comparable way.
+Bonas et al.37 used the Network of Relationships Inventory (NRI38), on a sample of owners from the UK to compare human and pet relationships.
+They found that participants received more social support from human relationships but reported less conflict with pets.
+Pet dogs scored higher on Companionship, Nurturance, and Reliable Alliance scales compared to humans, while cats rivalled humans in Nurturance and Reliable Alliance.
+Human partners excelled only in Instrumental Aid and Intimacy.
+Despite promising results, this pioneering study could benefit from methodological improvements in the following areas:
+**Comparisons**: The authors combined the ratings of various human partners into a single “human-human relationship” category and, in many comparisons, also merged different pet species into a single “human-pet relationship” category.
+This approach may have masked important differences, as different human relationships can exhibit distinct patterns39, and dogs and cats differ in many relationship traits32.
+**Statistical limitations**: The study had a small sample size (90 participants) who provided ratings for 244 human-pet relationships.
+However, it treated multiple pets from the same owner as independent data points and used independent sample tests instead of paired tests to compare human-human and human-pet relationships.
+We conduct a factor analysis on dog relationship items to validate whether the same relationship characteristics can be applied to dog-human relationships.
+Additionally, we extend the scope of the study by including human partners outside the family of origin (children, romantic partners, best friends) and analysing not only individual scales but also combinations, to determine whether the dog-owner relationship exhibits a unique pattern or matches a specific type of human relationship.
+Owners perceive less conflict with dogs and rate Companionship, Nurturance, and Reliable Alliance higher for dogs than for human partners (with the possible exception of the parent-child relationship), based on the results of Bonas et al.37.
+Similarly, the dog’s age and length of ownership may also impact its role in the owner’s life: puppies might be more child-like, while adult dogs could be more friend-like, though there are also differences among adult dogs36, 42.
+The modified network of relationships inventory (NRI-SPV) questionnaire was used in this study.
+How often do you… | | 6 | …tell him/her everything that you are going through?
+| Intimacy2 | | 32 | …tell him/her things that you don’t want others to know?
+How sure are you… | | 12 | …that this relationship will last no matter what?
+| Reliable Alliance1 | | 25 | …that your relationship will last in spite of fights?
+| Reliable Alliance2 | | 38 | …that your relationship will continue in the years to come?
+How often do you and he/she… | | 2 | …get mad at or get in fights with each other?
+| Conflict3 | | Antagonism (for participant) | | 5 | How much does he/she get on your nerves?
+| Antagonism (for participant)3 | | 18 | How much do you get annoyed with his/her behavior?
+| Antagonism (for participant)1 | | 31 | How much does he/she hassle or nag you?
+| Your antagonism (for others)2 | | 35 | How much do you hassle or nag him/her?
+| Satisfaction3 | | Relative power | | 11 | Who tells the other what to do more often.
+who tends to be the BOSS in this relationship?
+who tends to take charge and decide what should be done?
+- Owners with child (regardless of the child’s age) will have less positive ratings of their relationship with their dogs, specifically lower ratings for overall Support, Companionship, Your Affection (i.e., how much the participant likes the partner), and Nurturance scales, compared to owners without child.
+By addressing these research questions, this study aims to provide a comprehensive understanding of the qualitative and quantitative features of the dog-human relationship, considering various influencing factors and contemporary contexts.
+It was advertised on different social media platforms and webpages in two time periods: from April 2011 to February 2013, and from January 2022 to December 2023 (after all COVID restrictions had been lifted).
+The original questionnaire contained twelve scales, each scale was measured with three questions to be rated on a 1–5 or 1–4 Likert-type (mostly frequency) scale.
+The participants were asked to rate each question towards different potential partners.
+Additionally, because none of the questions were obligatory, if there was a missing question out of the three that made up a scale, we did not calculate a score for that scale for that partner.
+We compared the two sampling occasions and found significant differences in 31 out of 60 comparisons, though only two had effect sizes (Cohen’s d) reaching medium levels (see Supplementary Table S2 and Sect.
+While these findings justified merging the samples to increase both sample size (for identifying relationship scales) and diversity (for investigating factors influencing dog relationship ratings), the small differences could still influence comparisons between dog-human and human-human relationships.
+Therefore, we performed these latter analyses on both the merged sample (main text) and the separate samples (supplementary information) to ensure a consistent pattern of results.
+In the case of Support, we allowed one missing value, as this scale was made up of eight scales; in all other cases, no missing values were allowed.
+We calculated the internal consistency (using Cronbach’s alpha) of each scale to assess whether they were reliable in this sample.
+To this end, we performed exploratory factor analysis (EFA) with Oblimin rotation on the 39 relationship questions assessed for dogs.
+Next, we investigated how the dog-human relationship relates to human-human relationships.
+We used nonparametric tests because all scales deviated significantly from the normal distribution.
+Specifically, we assessed the effect of having child(ren) (yes, no) using Mann-Whitney U tests, and the age of the owner and dog using both Spearman correlations (age as a continuous variable) and Mann-Whitney U tests (age groups).
+Out of all comparisons (15 relationship scales × 4 partners), only two exhibited at least a medium (\|Cohen’s d\| > 0.5) effect size (details in Supplementary Table S2).
+There were a number of significant differences with small effect sizes, suggesting a trend: owners in the 2022-23 sample rated their relationships with dogs, closest kin, and best friends less positively compared to owners in the 2011-13 sample, while their ratings for romantic partners were more positive.
+Specifically, the 2022-23 sample showed slightly lower ratings in Affection and Your Affection for dogs, closest kin, and best friends, but somewhat higher ratings in Instrumental Aid (one of the differences with medium effect size), Intimacy, Nurturance, and Reassurance of Worth for romantic partners.
+Interestingly, the Reliable Alliance increased significantly from 2011 to 13 to 2022-23 for all partners, although only in the case of dogs did this difference reach a medium effect size.
+When we analysed the reliability of the scales for human relationships, all scales and both super-scales showed at least a good level of internal consistency (Cronbach’s alpha > 0.700) (Table 2).
+Internal consistency of the thirteen relationship scales and two super-sales.
+The dog-human relationship questions were subjected to an EFA to investigate if a similar scale structure would emerge as in the case of humans.
+Twelve out of the thirteen scales formed their own factor (Table 3), and only one item out of the 39 did not reach a loading > 0.3 on any factor (the minimum loading threshold in EFA45), , while only two items loaded on multiple factors with loadings > 0.3.
+The remaining two scales (Satisfaction and Relative Power) were not supposed to be categorized as either positive or negative.
+Our results fit this assumption, as the Satisfaction scale loaded both on Support and Negative Interaction, while Relative Power did not load on any of the super-scales.
+| Support | Negative interaction | | --- | --- | | Companionship | **0.724** | 0.069 | | Nurturance | **0.679** | 0.095 | | Instrumental aid | **0.638** | 0.018 | | Affection | **0.635** | − 0.134 | | Your affection | **0.631** | 0.000 | | Reassurance of worth | **0.605** | − 0.071 | | Intimacy | **0.591** | 0.113 | | Satisfaction | **0.570** | − **0.342** | | Reliable alliance | **0.405** | − 0.073 | | Antagonism | 0.071 | **0.831** | | Your antagonism | 0.069 | **0.766** | | Conflict | − 0.024 | **0.752** | | Relative power | 0.038 | − 0.128 | | Initial Eigenvalues | 4.374 | 33.649 | | Initial % of variance | 2.099 | 16.147 |
+All in all, we found a very good correspondence between the human and dog relationship structure, justifying their use in subsequent analyses.
+Next, we investigated how the dog-human relationship relates to different human-human relationships.
+Out of the 60 comparisons, only four did not reach statistical significance; however, only 34 differences had at least a medium effect size (\|Cohen’s d\| > 0.5).
+We found no difference with at least medium effect size between the relationship ratings of dogs and children in any of the positive relationship scales.
+Differences with at least medium effect size (\|Cohen’s d\| > 5) are in bold.
+Comparison between the dog-human and human-human relationships on different relationship scales.
+The dogs received significantly higher ratings on overall Support ( **a**) compared to all human partners except child, however, only in the cases of closest kin and best friend did not difference reach medium or higher effect size.
+Regarding Relative Power ( **d**), the dog received a markedly higher rating than all human partners.
+We found no difference with at least medium effect size between dogs and best friends in any of the negative relationship scales.
+Regarding Relative Power, the dog received a higher rating than all human partners (Fig.
+The two differences that did not reach medium effect size in this sample were Your Antagonism and Negative Interaction of the closest relative (Cohen’s d = 0.457 and 0.462, respectively).
+Some of these differences did not even reach statistical significance, likely due to the lower sample size.
+All in all, the two samples separately showed a very similar pattern of differences, particularly regarding differences with at least medium effect sizes.
+2), suggesting that the dog-owner relationship has a unique pattern.
+However, the effect size of these latter comparisons was small (\|Cohen’s d\| < 0.5).
+Differences with at least medium effect size (\|Cohen’s d\| > 5) are in bold.
+We repeated this analysis on both subsamples, and in both cases, we found largely the same pattern as in the merged sample (Supplementary Table S6).
+However, among these, only the differences in Companionship and Your Affection had at least a medium effect size (\|Cohen’s d\| > 0.5) (Table 7).
+Differences with at least medium effect size (\|Cohen’s d\| > 5) are in bold.
+Finally, regarding the age groups, we found several significant differences between owners below and above 34 years, which overlapped well with differences we found based on parenthood status.
+Younger owners rated their dogs higher on the Support super scale, specifically on the Companionship, Instrumental Aid, Intimacy, Affection, and Your Affection scales.
+None of these differences reached at least a medium effect size (\|Cohen’s d\| > 0.5) (Table 8).
+Again, none of these differences had at least medium effect size (Table 8).
+None of the differences had at least medium effect size (\|Cohen’s d\| > 5).
+This study offers a multidimensional description of the dog-owner relationship along characteristics akin to human social relationships.
+There is a weak to moderate positive correlation between dog and human relationship ratings, suggesting that relationships with dogs complement rather than compensate for relationships with human partners.
+Our first objective was to demonstrate that the relationship with a dog can be characterized using the same scales that describe human relationships.
+Using the same questionnaire as Bonas et al.37, which investigated two higher-order factors (Support and Negative Interaction), we performed an exploratory factor analysis on the dog rating items.
+Thirteen relationship scales emerged, with all but the Reassurance of Worth scale appearing as separate factors.
+The items of this latter scale loaded with those from the Instrumental Aid scale, and its internal consistency was lower, indicating a challenge in evaluating this characteristic in dog-human relationships.
+The results showed that items from the Companionship, Antagonism, and Your Antagonism scales loaded on different factors, with their Eigenvalues being less than 1, suggesting lower variability.
+However, all scales, except for Reassurance of Worth, showed acceptable internal consistency.
+In terms of positive characteristics, dogs were rated at the same level as children and higher than most human partners in scales such as Companionship, Nurturance, Affection, Your Affection, Reassurance of Worth, Reliable Alliance, and the Support super-scale.
+On negative scales, dogs were rated similarly to best friends but lower than all other human partners.
+These results were largely in line with our hypotheses and the findings of Bonas et al.37.
+The latter study found that participants received more cumulative social support from human relationships (corresponding to close kin in our analyses) but experienced less conflict in their relationships with pets compared to human partners.
+While the latter finding was supported by our results, the former was not: we found higher support in dogs not only than closest kin but also than best friends.
+Overall, our results revealed a somewhat more positive assessment of the dog-owner relationship compared to Bonas’ study.
+Thus, discrepancies between our and Bonas’ study are (also) likely due to cultural differences.
+Our findings suggest that dogs provide significant support in Companionship and Nurturance, fulfilling these social needs most effectively.
+Both characteristics are commonly stated reasons for dog ownership and offer intrinsic rewards.
+Companionship involves shared pleasure in recreation and spontaneity49, similar to what we typically experience with friends13.
+The nurturing role of dogs may explain the growing popularity of small brachycephalic breeds, despite serious health and welfare concerns raised by veterinary professionals.
+The “baby schema” (i.e., infant-like facial features54) and dependent behaviours typical of these breeds55 might trigger caregiving responses from owners.
+In addition to these positive attributes, an important characteristic of the dog-human relationship is the lack of conflict and antagonism, at least in our sample.
+While human partners can both support and hinder social needs, causing stress through negative interactions, dogs have limited potential to cause distress due to the power imbalance inherent in the dog-owner relationship40.
+Aside from Bonas et al.37, other studies have found similar, though, not directly comparable, results to ours.
+For example, 62% of Hungarian dog owners in a convenience sample agreed that their dog is more important than any human56, although this ratio was only 12% in a representative sample57.
+One practical explanation could be that the questionnaire scales and endpoints may not represent the same concepts for dogs and human partners.
+Another possible explanation is that dogs exceed human relationship ratings not because owners rate dogs exceptionally high, but because they rate their human relationships comparatively low.
+In other words, dogs may serve as substitutes for less satisfactory human relationships58.
+Research has shown that people with fewer human relationships are more likely to own companion animals3, 37 and tend to score higher on pet attachment scales59.
+Vulnerable populations, such as the elderly, lonely individuals, and those with psychological or physical disabilities, benefit the most from pets and form stronger bonds with them47, 60, 61.
+However, studies by37, 40, 41 suggest that pets do not compensate for dysfunctional human relationships, but instead uniquely contribute to their owners’ well-being.
+We observed null or positive correlation between dog and human relationship ratings, suggesting that dog owners do not rely on their dogs to compensate for deficiencies in their human relationships.
+However, it is important to note that our sample was comprised of volunteers, primarily recruited through social media, which likely led to a bias toward participants with positive attitudes toward dogs and a low representation of dissatisfied owners or vulnerable individuals31.
+In support of this, most participants reported having a romantic partner, indicating that owners without interpersonal relationships were less likely to take part in this study.
+The absence of a negative correlation only means that support from dogs is not perceived as better than what owners experience in their closest human relationships, but it does not address the owners’ overall need fulfilment from their entire social network.
+El-Alayli et al.62 found that owners tend to rate their companion animals more favourably than average pets, similar to self-enhancement biases observed in human relationships.
+Unlike (adult) human relationships, where both partners may share responsibility for a relationship’s shortcomings, the dog-owner relationship typically places full responsibility on the owner.
+The notion that “There’s no such thing as a bad dog, only bad owners”, a popular sentiment in dog and pet-related social media groups, may lead owners to believe that any problem with their dog or the dyadic relationship is predominantly their fault and that they will be judged by others for it66.
+Viewing one’s dog through rose-coloured glasses could be harmful if it prevents owners from exploring alternative ways to improve their self-worth, or if it leads them to downplay, ignore, or deny the existence of potentially dangerous behavioural problems in their dogs62.
+Additionally, it could alienate the owner from peers who hold a more realistic view of their dog.
+Some individuals may prefer dogs over other (human) attachment figures due to lower levels of avoidance and anxiety in their relationships with dogs67.
+Factors such as being male, widowed, highly involved in dog care, and uncomfortable with self-disclosure11, as well as having high attachment avoidance and anxiety67, increase the likelihood of seeking comfort from dogs instead of other humans in stressful situations.
+The “optimally discrepant social others” theory suggests that some individuals find it easier to interact with and open up to animals than humans.
+These traits enable dogs to meet owners’ needs for autonomy, competence, and relatedness40, which can be particularly appealing to individuals with anxious attachment styles, who often worry about being accepted or rejected by others46.
+Moreover, unlike human relationships, where dissatisfaction may lead to enduring conflict or the inability to escape, individuals dissatisfied with their dogs can opt to adopt a new one or rehome the current pet, a flexibility not available with human kin.
+Therefore, it is not surprising that individuals who currently keep dogs and choose to participate in a dog-related tend to express high satisfaction with their relationship, particularly if the survey focuses on their favourite dog.
+We compared the similarity between dogs and human partners across all scales combined to determine whether the dog-owner relationship follows a unique pattern or aligns with any specific type of human relationship.
+We hypothesized that the dog-human relationship would most closely resemble the child-parent relationship and be more similar to chosen partners (such as best friends and romantic partners) than to closest kin.
+Our results supported the first hypothesis but only partially the second: while romantic partners were more similar to dogs than closest kin, best friends were not.
+One possible explanation for the similarity in perceived relationship quality between dogs and children may lie in the relatively shorter duration of these relationships compared to those with other partners (i.e., the average length of relationships with dogs in our sample was less than five years).
+Young adult owners may view their dog as a child-precursor, while older owners, whose children have “left the nest”, may regard the dog as a substitute, likely leading to more positive ratings of the dog-owner relationship, particularly in terms of global Support, Companionship, Nurturance, and Your Affection scales.
+Additionally, Blouin27 found that after the birth of a first child, owners’ humanistic orientation towards pets, characterized by strong emotional attachment, anthropomorphism, and spoiling, often diminishes, as the need for pets to fill in the “child” role decreases.
+Our results supported these expectations, although only the differences in Companionship and Your Affection reached at least a medium effect size, while the difference in Nurturance did not.
+Compared to owners with children, those without children rated their dogs higher on Instrumental Aid, Intimacy, Affection, and Your Antagonism scales (though these differences had small effect size), indicating somewhat stronger bonds and a higher tendency to anthropomorphize their pets3.
+Contrary to the impact of parenthood, owner age did not notably influence dog-owner relationship ratings.
+Although small effect size differences indicated a trend for younger owners to rate their dogs higher on positive scales compared to older owners, these differences largely overlapped with those found between owners with and without children.
+However, neither the correlation with dog age nor the differences between puppies and adult dogs revealed any associations with at least medium effect size.
+This suggests that analyses can be conducted without controlling for the dog’s age, though further research involving more puppies is needed to confirm these findings.
+This confirms that the two samples can be merged.
+However, differences with small effect sizes suggest a trend: participants in 2022-23 reported receiving less support from their closest kin, best friend, and dog, but more from their romantic partner compared to 2011-13.
+Research on COVID-19 suggests that the pandemic significantly impacted social relationships, causing physical and emotional estrangement due to lockdown measures.
+Interestingly, and contrary to our findings, a longitudinal study in the U.S. before, during, and after the pandemic76 showed a subtle increase in perceived emotional closeness to dogs.
+This indicates that while global events likely influenced the perceived quality of relationships, including those with dogs, cultural differences may also contribute to these variations, highlighting the complex nature of social relationships during times of crisis.
+Nevertheless, our results show that although there is variability in the quality of the dog-owner relationship between individuals and over time, only a small part of this variability can be systematically explained by factors such as parenthood.
+Three main limitations of the current study have already been mentioned:
+Like most research on the dog-owner bond, our participants were self-selected, predominantly female, and young to middle-aged, likely more satisfied with their relationships than the average dog owner.
+Future research should complement the current findings by including a more diverse array of pet owners from different population types.
+Another limitation is that far fewer participants rated their relationships with children compared to the other partners, which might have introduced a bias in the analysis.
+Moreover, while most hypotheses were set with pre-teen children in mind, this criterion was not enforced due to the limited number of parents in the sample.
+Future studies should differentiate between children of different ages.
+Finally, since this study relied on subjective questionnaire assessments, it is unclear how well these results reflect reality.
+For instance, in real-life situations, owners might not prioritize their dogs over human partners.
+Additionally, as mentioned above, owners may interpret the relationship scales differently for dogs and human partners, highlighting the need for further research to develop more objectively comparable scales.
+We found that human-dog relationships provide support through different forms of need fulfilment, predominantly via Companionship, Nurturance, and the absence of Negative Interactions.
+However, support from dogs was rated higher than that from best friends and closest kin, which may suggest a positively distorted view of dogs by owners.
+Nonetheless, the dog-human relationship may indeed be the best some owners can get, offering features like unconditional love that may be harder to find in human partners.
+All in all, confirming Bonas et al.37, we assert that characterizing the dog-owner relationship as a set of social provisions is a valid way to evaluate relationships with dogs.
+By linking human-animal bond research to the psychology of need fulfilment in human social relationships, this approach may provide a deeper understanding of the nature of the dog-human relationship and how it differs from human relationships.
+This project has received funding from the Hungarian Academy of Sciences via a grant to the MTA-ELTE ‘Lendület/Momentum’ Companion Animal Research Group (grant no.
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+& Vanak, A. T. Modelling the challenges of managing free-ranging dog populations.
+\ [DOI\] \ [PMC free article\] \ [PubMed\] - 2.Morey, D. F. Burying key evidence: the social bond between dogs and people.
+)\] - 5.Volsche, S. Pet Parenting in the United States: Investigating an Evolutionary Puzzle.
+Human Analogue Safe Haven Effect of the Owner: Behavioural and Heart Rate Response to Stressful Social Stimuli in Dogs.
+\ [DOI\] \ [PMC free article\] \ [PubMed\] - 8.Topál, J., Miklósi, Á., Csányi, V. & Dóka, A. Attachment behavior in dogs (Canis familiaris): A new application of Ainsworth’s (1969) Strange Situation Test.
+\ [DOI\] \ [PubMed\] - 9.Savalli, C. & Mariti, C. Would the Dog Be a Person’s Child or Best Friend?
+‘Young Adults’ Attachment to Pet Dogs: Findings from Open-Ended Methods.
+The Interaction Effect of Pet Attachment and Subjective Socioeconomic Status on Fertility Intention.
+- 17.Gillet, L. & Kubinyi, E. Children and dogs: Exploring the impact of canine interaction on socio-cognitive development.
+\ [DOI\] \ [PMC free article\] \ [PubMed\] - 20.Bennett, P. C. & Rohlf, V. I. Owner-companion dog interactions: Relationships between demographic variables, potentially problematic behaviours, training engagement and shared activities.
+& Rangaswamy, M. An Exploration of Attitudes toward Dogs among College Students in Bangalore, India’, _Animals_ **9**(8), Art.
+\ [DOI\] \ [PMC free article\] \ [PubMed\] - 27.Blouin, D. D. Are dogs children, companions, or just animals?
+- 28.Curb, L. A., Abramson, C. I., Grice, J. W. & Kennison, S. M. The relationship between personality match and pet satisfaction among dog owners.
+\ [PMC free article\] \ [PubMed\] - 30.Johnson, T. P., Garrity, T. F. & Stallones, L. Psychometric evaluation of the Lexington attachment to pets scale (Laps)’, _Anthrozoös_.
+- 33.Beck, L. & Madresh, E. A. Romntic partners and four-legged friends: an extension of attachment theory to relationships with pets.
+& Collis, G. M. Pets in the network of family relationships: an empirical study, in Companion Animals and Us: Exploring the Relationships between People and Pets, New York, NY, US: Cambridge University Press, 209–236.
+)\] - 38.Furman, W. & Buhrmester, D. Children’s Perceptions of the Personal Relationships in Their Social Networks.
+& Zilcha-Mano, S. Basic psychological need fulfillment in human-pet relationships and well-being.
+)\] - 41.McConnell, A. R., Brown, C. M., Shoda, T. M., Stayton, L. E. & Martin, C. E. Friends with benefits: On the positive consequences of pet ownership.
+& Kubinyi, E. Demographic change across the lifespan of pet dogs and their impact on health status.
+in The Palgrave Handbook of Survey Research, (eds Vannette, D. L. & Krosnick, J.
+)\] - 44.Sullivan, G. M. & Feinn, R. Using effect Size—or why the _P_ value is not enough.
+\ [DOI\] \ [PMC free article\] \ [PubMed\] - 45.Tabachnick, B. G. & Fidell, L. S. ‘Principal components and factor analysis’, in Using Multivariate Statistics, Boston: Pearson, 476–527.
+– A systematic review about compatibility in personality and attachment.
+- 51.Herbeck, Y. E., Eliava, M., Grinevich, V. & MacLean, E. L. Fear, love, and the origins of canid domestication: An oxytocin hypothesis.
+\ [DOI\] \ [PMC free article\] \ [PubMed\] - 52.Miller, S. C. et al. An examination of changes in Oxytocin levels in men and women before and after interaction with a bonded Dog.
+& Meintjes, R. A. Neurophysiological correlates of affiliative behaviour between humans and dogs.
+\ [DOI00237-x)\] \ [PubMed\] - 54.Paul, E. S. et al. That brachycephalic look: Infant-like facial appearance in short-muzzled dog breeds.
+& Kubinyi, E. ‘The difference between two brachycephalic and one mesocephalic dog breeds’ problem-solving performance suggests evidence for paedomorphism in behaviour.
+\ [DOI\] \ [PMC free article\] \ [PubMed\] - 57.Kubinyi, E. & Varga, G. ‘Társállattartás Magyarországon 2022-es reprezentatív felmérés alapján’, vol.
+- 58.Kubinyi, E. The Link between Companion Dogs, Human Fertility Rates, and Social Networks.
+& Mills, D. S. Potential Psychosocial Explanations for the Impact of Pet Ownership on Human Well-Being: Evaluating and Expanding Current Hypotheses _Human-Animal Interactions_.
+)\] - 73.Xiong, J. et al. Impact of COVID-19 pandemic on mental health in the general population: A systematic review.
+& Messam, L. L. M. Temporal patterns of owner-pet relationship, stress, and loneliness during the COVID-19 pandemic, and the effect of pet ownership on mental health: A longitudinal survey.
+Most dog owners in Western countries regard their dogs as companions or family members, prompting extensive research on the human-animal bond.
+In contrast, our study employed a multifaceted approach, examining the dog-owner bond across 13 relationship scales and comparing these scales to four different types of human relationships to reveal the human-like roles of dogs within a family.
+Participants ( _N_ = 717) characterized their relationships with their dog and four human partners: closest kin, romantic partner, best friend, and child, using the Network of Relationships Inventory.
+Characterizing the dog-owner relationship as a set of social provisions offers a valid way to evaluate relationships with dogs, providing an alternative theoretical framework to attachment theory for comparing dog-human and human-human relationships.
+### Function predicts how people treat their dogs in a global sample
+However, there is also evidence of dogs being kept for sentimental reasons from the very beginning2.
+Attachment encompasses four sub-behaviour systems: proximity maintenance, separation distress, safe haven, and secure base, which help maintain safety in stressful situations.
+Dogs exhibit all four behaviour systems7, 8, and, in addition, the dog-human relationship shares many similarities with child-parent relationships in aspects such as power balance, dependence, nurturance, and teaching9.
+While some dogs are still kept solely for protection or work, in Western societies, most have lost a specific affordance but form a significant bond with their owners.
+Turner14 identified six stages of the family life cycle during which pets fulfil different roles.
+In later stages, such as the empty nest and family reorganization, pets may once again play a substitute role, helping cope with potential losses and mitigating loneliness.
+For example, owner age has been shown to affect how and from where owners acquire a dog18, as well as what characteristics they consider important when selecting a dog19.
+Many studies attempt to quantify dogs’ roles in their owners’ lives and categorize these relationships.
+Typically, owners are asked to select categories such as ‘family member,’ ‘child,’ ‘pet,’ or ‘colleague’20, 23, 24, 25, 26.
+For instance, when owners report that they consider their dogs to be children, it does not necessarily mean the dogs fulfil all child roles or are treated exactly like children.
+These categories might serve only as labels, and their use could be strongly influenced by (social) media trends rather than reflecting actual relationships.
+Moreover, while studies predominantly report a very high proportion of dogs regarded as ‘family members’, this designation could mean anything from newborn to distant cousin, providing little insight into the actual quality of the relationship.
+Finally, treating dog ownership as a simple categorical attribute can be misleading, as individuals are unlikely to be entirely consistent in their attitudes and actions toward the dog27.
+Even studies using quantitative measures often rely on single continuums, such as general satisfaction (e.g28).
+However, the most significant issue is that these evaluations apply only to animals and cannot be integrated into any human relationship framework.
+Although the attachment theory can be applied to both human and dog relationships, allowing for a direct comparison between them33, there are aspects of the relationship that are not captured by this framework.
+Our social network includes various partners (e.g., parents, friends, colleagues) who offer different types of support (e.g., admiration, consistency, aid, nurturance).
+Many characteristics describing human relationships also apply to human-dog relationships3, 36, which could offer an alternative framework for studying the dog-human relationship in a directly comparable way.
+They found that participants received more social support from human relationships but reported less conflict with pets.
+Pet dogs scored higher on Companionship, Nurturance, and Reliable Alliance scales compared to humans, while cats rivalled humans in Nurturance and Reliable Alliance.
+Despite promising results, this pioneering study could benefit from methodological improvements in the following areas:
+**Comparisons**: The authors combined the ratings of various human partners into a single “human-human relationship” category and, in many comparisons, also merged different pet species into a single “human-pet relationship” category.
+**Statistical limitations**: The study had a small sample size (90 participants) who provided ratings for 244 human-pet relationships.
+However, it treated multiple pets from the same owner as independent data points and used independent sample tests instead of paired tests to compare human-human and human-pet relationships.
+Similarly, the dog’s age and length of ownership may also impact its role in the owner’s life: puppies might be more child-like, while adult dogs could be more friend-like, though there are also differences among adult dogs36, 42.
+- Owners with child (regardless of the child’s age) will have less positive ratings of their relationship with their dogs, specifically lower ratings for overall Support, Companionship, Your Affection (i.e., how much the participant likes the partner), and Nurturance scales, compared to owners without child.
+**Table 1 The modified network of relationships inventory (NRI-SPV) questionnaire was used in this study.
+By addressing these research questions, this study aims to provide a comprehensive understanding of the qualitative and quantitative features of the dog-human relationship, considering various influencing factors and contemporary contexts.
+It was advertised on different social media platforms and webpages in two time periods: from April 2011 to February 2013, and from January 2022 to December 2023 (after all COVID restrictions had been lifted).
+The participants were asked to rate each question towards different potential partners.
+We compared the two sampling occasions and found significant differences in 31 out of 60 comparisons, though only two had effect sizes (Cohen’s d) reaching medium levels (see Supplementary Table S2 and Sect.
+While these findings justified merging the samples to increase both sample size (for identifying relationship scales) and diversity (for investigating factors influencing dog relationship ratings), the small differences could still influence comparisons between dog-human and human-human relationships.
+Therefore, we performed these latter analyses on both the merged sample (main text) and the separate samples (supplementary information) to ensure a consistent pattern of results.
+In the case of Support, we allowed one missing value, as this scale was made up of eight scales; in all other cases, no missing values were allowed.
+We calculated the internal consistency (using Cronbach’s alpha) of each scale to assess whether they were reliable in this sample.
+To this end, we performed exploratory factor analysis (EFA) with Oblimin rotation on the 39 relationship questions assessed for dogs.
+Next, we investigated how the dog-human relationship relates to human-human relationships.
+We used nonparametric tests because all scales deviated significantly from the normal distribution.
+Specifically, we assessed the effect of having child(ren) (yes, no) using Mann-Whitney U tests, and the age of the owner and dog using both Spearman correlations (age as a continuous variable) and Mann-Whitney U tests (age groups).
+Out of all comparisons (15 relationship scales × 4 partners), only two exhibited at least a medium (\|Cohen’s d\| > 0.5) effect size (details in Supplementary Table S2).
+There were a number of significant differences with small effect sizes, suggesting a trend: owners in the 2022-23 sample rated their relationships with dogs, closest kin, and best friends less positively compared to owners in the 2011-13 sample, while their ratings for romantic partners were more positive.
+Specifically, the 2022-23 sample showed slightly lower ratings in Affection and Your Affection for dogs, closest kin, and best friends, but somewhat higher ratings in Instrumental Aid (one of the differences with medium effect size), Intimacy, Nurturance, and Reassurance of Worth for romantic partners.
+Interestingly, the Reliable Alliance increased significantly from 2011 to 13 to 2022-23 for all partners, although only in the case of dogs did this difference reach a medium effect size.
+When we analysed the reliability of the scales for human relationships, all scales and both super-scales showed at least a good level of internal consistency (Cronbach’s alpha > 0.700) (Table 2).
+**Table 2 Internal consistency of the thirteen relationship scales and two super-sales.
+Twelve out of the thirteen scales formed their own factor (Table 3), and only one item out of the 39 did not reach a loading > 0.3 on any factor (the minimum loading threshold in EFA45), , while only two items loaded on multiple factors with loadings > 0.3.
+The remaining two scales (Satisfaction and Relative Power) were not supposed to be categorized as either positive or negative.
+Our results fit this assumption, as the Satisfaction scale loaded both on Support and Negative Interaction, while Relative Power did not load on any of the super-scales.
+Next, we investigated how the dog-human relationship relates to different human-human relationships.
+We found no difference with at least medium effect size between the relationship ratings of dogs and children in any of the positive relationship scales.
+Comparison between the dog-human and human-human relationships on different relationship scales.
+The dogs received significantly higher ratings on overall Support ( **a**) compared to all human partners except child, however, only in the cases of closest kin and best friend did not difference reach medium or higher effect size.
+Regarding Relative Power ( **d**), the dog received a markedly higher rating than all human partners.
+We found no difference with at least medium effect size between dogs and best friends in any of the negative relationship scales.
+Regarding Relative Power, the dog received a higher rating than all human partners (Fig.
+The two differences that did not reach medium effect size in this sample were Your Antagonism and Negative Interaction of the closest relative (Cohen’s d = 0.457 and 0.462, respectively).
+Some of these differences did not even reach statistical significance, likely due to the lower sample size.
+However, the effect size of these latter comparisons was small (\|Cohen’s d\| < 0.5).
+We repeated this analysis on both subsamples, and in both cases, we found largely the same pattern as in the merged sample (Supplementary Table S6).
+However, among these, only the differences in Companionship and Your Affection had at least a medium effect size (\|Cohen’s d\| > 0.5) (Table 7).
+Finally, regarding the age groups, we found several significant differences between owners below and above 34 years, which overlapped well with differences we found based on parenthood status.
+None of these differences reached at least a medium effect size (\|Cohen’s d\| > 0.5) (Table 8).
+Again, none of these differences had at least medium effect size (Table 8).
+This study offers a multidimensional description of the dog-owner relationship along characteristics akin to human social relationships.
+There is a weak to moderate positive correlation between dog and human relationship ratings, suggesting that relationships with dogs complement rather than compensate for relationships with human partners.
+Using the same questionnaire as Bonas et al.37, which investigated two higher-order factors (Support and Negative Interaction), we performed an exploratory factor analysis on the dog rating items.
+Thirteen relationship scales emerged, with all but the Reassurance of Worth scale appearing as separate factors.
+The items of this latter scale loaded with those from the Instrumental Aid scale, and its internal consistency was lower, indicating a challenge in evaluating this characteristic in dog-human relationships.
+The results showed that items from the Companionship, Antagonism, and Your Antagonism scales loaded on different factors, with their Eigenvalues being less than 1, suggesting lower variability.
+However, all scales, except for Reassurance of Worth, showed acceptable internal consistency.
+In terms of positive characteristics, dogs were rated at the same level as children and higher than most human partners in scales such as Companionship, Nurturance, Affection, Your Affection, Reassurance of Worth, Reliable Alliance, and the Support super-scale.
+On negative scales, dogs were rated similarly to best friends but lower than all other human partners.
+These results were largely in line with our hypotheses and the findings of Bonas et al.37.
+The latter study found that participants received more cumulative social support from human relationships (corresponding to close kin in our analyses) but experienced less conflict in their relationships with pets compared to human partners.
+While the latter finding was supported by our results, the former was not: we found higher support in dogs not only than closest kin but also than best friends.
+Overall, our results revealed a somewhat more positive assessment of the dog-owner relationship compared to Bonas’ study.
+Thus, discrepancies between our and Bonas’ study are (also) likely due to cultural differences.
+Our findings suggest that dogs provide significant support in Companionship and Nurturance, fulfilling these social needs most effectively.
+Both characteristics are commonly stated reasons for dog ownership and offer intrinsic rewards.
+Companionship involves shared pleasure in recreation and spontaneity49, similar to what we typically experience with friends13.
+The “baby schema” (i.e., infant-like facial features54) and dependent behaviours typical of these breeds55 might trigger caregiving responses from owners.
+In addition to these positive attributes, an important characteristic of the dog-human relationship is the lack of conflict and antagonism, at least in our sample.
+While human partners can both support and hinder social needs, causing stress through negative interactions, dogs have limited potential to cause distress due to the power imbalance inherent in the dog-owner relationship40.
+Aside from Bonas et al.37, other studies have found similar, though, not directly comparable, results to ours.
+For example, 62% of Hungarian dog owners in a convenience sample agreed that their dog is more important than any human56, although this ratio was only 12% in a representative sample57.
+Another possible explanation is that dogs exceed human relationship ratings not because owners rate dogs exceptionally high, but because they rate their human relationships comparatively low.
+In other words, dogs may serve as substitutes for less satisfactory human relationships58.
+Vulnerable populations, such as the elderly, lonely individuals, and those with psychological or physical disabilities, benefit the most from pets and form stronger bonds with them47, 60, 61.
+However, studies by37, 40, 41 suggest that pets do not compensate for dysfunctional human relationships, but instead uniquely contribute to their owners’ well-being.
+We observed null or positive correlation between dog and human relationship ratings, suggesting that dog owners do not rely on their dogs to compensate for deficiencies in their human relationships.
+However, it is important to note that our sample was comprised of volunteers, primarily recruited through social media, which likely led to a bias toward participants with positive attitudes toward dogs and a low representation of dissatisfied owners or vulnerable individuals31.
+In support of this, most participants reported having a romantic partner, indicating that owners without interpersonal relationships were less likely to take part in this study.
+The absence of a negative correlation only means that support from dogs is not perceived as better than what owners experience in their closest human relationships, but it does not address the owners’ overall need fulfilment from their entire social network.
+Unlike (adult) human relationships, where both partners may share responsibility for a relationship’s shortcomings, the dog-owner relationship typically places full responsibility on the owner.
+The notion that “There’s no such thing as a bad dog, only bad owners”, a popular sentiment in dog and pet-related social media groups, may lead owners to believe that any problem with their dog or the dyadic relationship is predominantly their fault and that they will be judged by others for it66.
+Viewing one’s dog through rose-coloured glasses could be harmful if it prevents owners from exploring alternative ways to improve their self-worth, or if it leads them to downplay, ignore, or deny the existence of potentially dangerous behavioural problems in their dogs62.
+Additionally, it could alienate the owner from peers who hold a more realistic view of their dog.
+Some individuals may prefer dogs over other (human) attachment figures due to lower levels of avoidance and anxiety in their relationships with dogs67.
+These traits enable dogs to meet owners’ needs for autonomy, competence, and relatedness40, which can be particularly appealing to individuals with anxious attachment styles, who often worry about being accepted or rejected by others46.
+Moreover, unlike human relationships, where dissatisfaction may lead to enduring conflict or the inability to escape, individuals dissatisfied with their dogs can opt to adopt a new one or rehome the current pet, a flexibility not available with human kin.
+Therefore, it is not surprising that individuals who currently keep dogs and choose to participate in a dog-related tend to express high satisfaction with their relationship, particularly if the survey focuses on their favourite dog.
+We compared the similarity between dogs and human partners across all scales combined to determine whether the dog-owner relationship follows a unique pattern or aligns with any specific type of human relationship.
+We hypothesized that the dog-human relationship would most closely resemble the child-parent relationship and be more similar to chosen partners (such as best friends and romantic partners) than to closest kin.
+Our results supported the first hypothesis but only partially the second: while romantic partners were more similar to dogs than closest kin, best friends were not.
+One possible explanation for the similarity in perceived relationship quality between dogs and children may lie in the relatively shorter duration of these relationships compared to those with other partners (i.e., the average length of relationships with dogs in our sample was less than five years).
+Young adult owners may view their dog as a child-precursor, while older owners, whose children have “left the nest”, may regard the dog as a substitute, likely leading to more positive ratings of the dog-owner relationship, particularly in terms of global Support, Companionship, Nurturance, and Your Affection scales.
+Our results supported these expectations, although only the differences in Companionship and Your Affection reached at least a medium effect size, while the difference in Nurturance did not.
+Compared to owners with children, those without children rated their dogs higher on Instrumental Aid, Intimacy, Affection, and Your Antagonism scales (though these differences had small effect size), indicating somewhat stronger bonds and a higher tendency to anthropomorphize their pets3.
+Contrary to the impact of parenthood, owner age did not notably influence dog-owner relationship ratings.
+This suggests that analyses can be conducted without controlling for the dog’s age, though further research involving more puppies is needed to confirm these findings.
+However, differences with small effect sizes suggest a trend: participants in 2022-23 reported receiving less support from their closest kin, best friend, and dog, but more from their romantic partner compared to 2011-13.
+Research on COVID-19 suggests that the pandemic significantly impacted social relationships, causing physical and emotional estrangement due to lockdown measures.
+Interestingly, and contrary to our findings, a longitudinal study in the U.S. before, during, and after the pandemic76 showed a subtle increase in perceived emotional closeness to dogs.
+Nevertheless, our results show that although there is variability in the quality of the dog-owner relationship between individuals and over time, only a small part of this variability can be systematically explained by factors such as parenthood.
+Three main limitations of the current study have already been mentioned:
+Like most research on the dog-owner bond, our participants were self-selected, predominantly female, and young to middle-aged, likely more satisfied with their relationships than the average dog owner.
+Future research should complement the current findings by including a more diverse array of pet owners from different population types.
+Another limitation is that far fewer participants rated their relationships with children compared to the other partners, which might have introduced a bias in the analysis.
+Moreover, while most hypotheses were set with pre-teen children in mind, this criterion was not enforced due to the limited number of parents in the sample.
+Finally, since this study relied on subjective questionnaire assessments, it is unclear how well these results reflect reality.
+For instance, in real-life situations, owners might not prioritize their dogs over human partners.
+Additionally, as mentioned above, owners may interpret the relationship scales differently for dogs and human partners, highlighting the need for further research to develop more objectively comparable scales.
+However, support from dogs was rated higher than that from best friends and closest kin, which may suggest a positively distorted view of dogs by owners.
+Nonetheless, the dog-human relationship may indeed be the best some owners can get, offering features like unconditional love that may be harder to find in human partners.
+All in all, confirming Bonas et al.37, we assert that characterizing the dog-owner relationship as a set of social provisions is a valid way to evaluate relationships with dogs.
+Morey, D. F. Burying key evidence: the social bond between dogs and people.
+Volsche, S. Pet Parenting in the United States: Investigating an Evolutionary Puzzle.
+Human Analogue Safe Haven Effect of the Owner: Behavioural and Heart Rate Response to Stressful Social Stimuli in Dogs.
+Topál, J., Miklósi, Á., Csányi, V. & Dóka, A. Attachment behavior in dogs (Canis familiaris): A new application of Ainsworth’s (1969) Strange Situation Test.
+Savalli, C. & Mariti, C. Would the Dog Be a Person’s Child or Best Friend?
+The Interaction Effect of Pet Attachment and Subjective Socioeconomic Status on Fertility Intention.
+Gillet, L. & Kubinyi, E. Children and dogs: Exploring the impact of canine interaction on socio-cognitive development.
+Bennett, P. C. & Rohlf, V. I. Owner-companion dog interactions: Relationships between demographic variables, potentially problematic behaviours, training engagement and shared activities.
+& Rangaswamy, M. An Exploration of Attitudes toward Dogs among College Students in Bangalore, India’, _Animals_ **9**(8), Art.
+Curb, L. A., Abramson, C. I., Grice, J. W. & Kennison, S. M. The relationship between personality match and pet satisfaction among dog owners.
+Johnson, T. P., Garrity, T. F. & Stallones, L. Psychometric evaluation of the Lexington attachment to pets scale (Laps)’, _Anthrozoös_.
+Beck, L. & Madresh, E. A. Romntic partners and four-legged friends: an extension of attachment theory to relationships with pets.
+& Collis, G. M. Pets in the network of family relationships: an empirical study, in Companion Animals and Us: Exploring the Relationships between People and Pets, New York, NY, US: Cambridge University Press, 209–236.
+Furman, W. & Buhrmester, D. Children’s Perceptions of the Personal Relationships in Their Social Networks.
+McConnell, A. R., Brown, C. M., Shoda, T. M., Stayton, L. E. & Martin, C. E. Friends with benefits: On the positive consequences of pet ownership.
+& Kubinyi, E. Demographic change across the lifespan of pet dogs and their impact on health status.
+in The Palgrave Handbook of Survey Research, (eds Vannette, D. L. & Krosnick, J.
+Tabachnick, B. G. & Fidell, L. S. ‘Principal components and factor analysis’, in Using Multivariate Statistics, Boston: Pearson, 476–527.
+Herbeck, Y. E., Eliava, M., Grinevich, V. & MacLean, E. L. Fear, love, and the origins of canid domestication: An oxytocin hypothesis.
+Paul, E. S. et al. That brachycephalic look: Infant-like facial appearance in short-muzzled dog breeds.
+& Kubinyi, E. ‘The difference between two brachycephalic and one mesocephalic dog breeds’ problem-solving performance suggests evidence for paedomorphism in behaviour.
+Kubinyi, E. The Link between Companion Dogs, Human Fertility Rates, and Social Networks.
+& Mills, D. S. Potential Psychosocial Explanations for the Impact of Pet Ownership on Human Well-Being: Evaluating and Expanding Current Hypotheses _Human-Animal Interactions_.
+Xiong, J. et al. Impact of COVID-19 pandemic on mental health in the general population: A systematic review.
+Borbála Turcsán, Dorottya Júlia Ujfalussy, Andrea Kerepesi, Ádám Miklósi & Enikő Kubinyi
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+**Open Access** This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made.
+Anyone you share the following link with will be able to read this content:
+Sorry, a shareable link is not currently available for this article.
+- Explore articles by subject - Find a job - Guide to authors - Editorial policies
+Sign up for the _Nature Briefing_ newsletter — what matters in science, free to your inbox daily.
+I agree my information will be processed in accordance with the _Nature_ and Springer Nature Limited Privacy Policy.
+Clipboard, Search History, and several other advanced features are temporarily unavailable.
+Before sharing sensitive information, make sure you’re on a federal government site.
+** The **https://** ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
+Send even when there aren't any new results
+Most dog owners in Western countries regard their dogs as companions or family members, prompting extensive research on the human-animal bond.
+However, many studies rely on broad categories or single dimensions, such as satisfaction or attachment, which can oversimplify the complexity of these relationships.
+In contrast, our study employed a multifaceted approach, examining the dog-owner bond across 13 relationship scales and comparing these scales to four different types of human relationships to reveal the human-like roles of dogs within a family.
+Participants (N = 717) characterized their relationships with their dog and four human partners: closest kin, romantic partner, best friend, and child, using the Network of Relationships Inventory.
+Characterizing the dog-owner relationship as a set of social provisions offers a valid way to evaluate relationships with dogs, providing an alternative theoretical framework to attachment theory for comparing dog-human and human-human relationships.
+Comparison between the dog-human and human-human relationships on different relationship scales.
+Comparison between the dog-human and human-human relationships on different relationship scales.
+The dogs received significantly higher ratings on overall Support ( **a**) compared to all human partners except child, however, only in the cases of closest kin and best friend did not difference reach medium or higher effect size.
+The owners reported a higher rate of relationship Satisfaction ( **c**) in dogs than in all human partners, but in the case of romantic partner and child, the difference had lower than medium effect size.
+Regarding Relative Power ( **d**), the dog received a markedly higher rating than all human partners.
+& Vanak, A. T. Modelling the challenges of managing free-ranging dog populations.
+Morey, D. F. Burying key evidence: the social bond between dogs and people.
+Volsche, S. Pet Parenting in the United States: Investigating an Evolutionary Puzzle.

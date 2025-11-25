@@ -67,4 +67,7 @@ for i in range(3):
             input=d.encode('utf-8'),
             check=True  # Optional: raises an error if the script fails
         )
+
+# choosing and organizing points from data.txt
+subprocess.run('python3 choose_points.py',shell=True)
 print('done')

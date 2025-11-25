@@ -32,7 +32,7 @@ subprocess.run('rm -rf data.txt',shell=True)
 list_len=len(list(d.values()))
 list_len = int(list_len*0.20) # only 20 % of the top lines will be finalised
 
-# finally all the top 50 % lines are written into data.txt 
+# finally all the top 20 % lines are written into data.txt 
 with open('data.txt','a+',encoding='utf-8') as file:
     for sentance in list(d.values())[0:list_len] :
         file.write(str(sentance)+'\n')
