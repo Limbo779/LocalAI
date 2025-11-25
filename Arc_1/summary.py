@@ -7,12 +7,22 @@ from sumy.summarizers.lex_rank import LexRankSummarizer
 from sumy.summarizers.kl import KLSummarizer
 
 def summarize(text, language="english"):
+    global algo
     # Get the token count
     count=len(nltk.word_tokenize(text))
     # Parse text and tokenize
     parser = PlaintextParser.from_string(text, Tokenizer(language))
     # Choose summarizer
-    summarizer = LexRankSummarizer() #LsaSummarizer()
+    
+    if algo == 'Luhn':
+        summarizer = LuhnSummarizer()
+    elif algo == 'LSA':
+        summarizer = LsaSummarizer()
+    elif algo == 'LexRank':
+        summarizer = LexRankSummarizer()
+    else :
+        summarizer = EdmundsonSummarizer()
+
     # Generate summary as a list of sentences
     sentences_count=int(round(count*(1/100)))
     summary = summarizer(parser.document, sentences_count)
@@ -23,6 +33,7 @@ def summarize(text, language="english"):
 
 if __name__ == "__main__":
     text=""
+    algo = input()
     for i in range(3): # this loop is to summarize three md files
         # open the md file and summarize it
         with open(f"output_{i+1}.md",'r',encoding='utf-8') as f:

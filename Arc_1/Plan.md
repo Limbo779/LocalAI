@@ -31,3 +31,7 @@
 * choose_points.py is ready and everything expect main.py is streamlined expect for summary algo choosing in summary.py
 * before making main.py , let's make a ollama tool, that the model can use ,that can access data.txt
 * main.py general structure - recieve querry from user - split the querry into three along with the summary algo to choose using small model - store algo along with querry and loop through to run Extract_Web_Data.py - finally choose the tool and make the final response with big model
+
+# 25 Nov 2025
+
+* for main chat we can use json to store all the chat history [check this for context](https://www.perplexity.ai/search/i-want-ollama-to-access-txt-fi-U37PfPgERuG4jIcoo2yy6w#7)

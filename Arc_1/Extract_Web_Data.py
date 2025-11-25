@@ -2,6 +2,7 @@ import os
 import requests
 import re
 import subprocess
+import json 
 
 # Set your Ollama API key either here or as an environment variable OLLAMA_API_KEY
 API_KEY = os.getenv("OLLAMA_API_KEY", "13b1bb3fd0894359ba9c9da94aabbe76.LVr9Am3AtXNK4wNOCcybD-B0")
@@ -74,8 +75,8 @@ def convert_md_file(input_path, output_path):
 # this will pull take the three web data, remove all the annoying link and write them into three md files
 if __name__ == "__main__":
     # the querry is recieved through pipe from main.py
-    user_query = input()
-    results = ollama_web_search(user_query)
+    user_query = json.loads(input())
+    results = ollama_web_search(user_query['q'])
 
     # clean and write the messy web data into md (which will be deleted after summarization)
     j=0
@@ -86,11 +87,10 @@ if __name__ == "__main__":
         subprocess.run(f'rm -rf {i}',shell=True)
 
     # do the summarization by running summary.py
-    subprocess.run(f'python3 summary.py',shell=True)
+    subprocess.run(f'echo "{user_query['a']}" | python3 summary.py',shell=True)
 
     # finally remove the unwanted md file 
     for k in ['output_1.md','output_2.md','output_3.md'] :    
         subprocess.run(f'rm -rf {k}',shell=True)
 
-    # querry is given to choose_points through pipe
-    subprocess.run(f"echo '{user_query}' | python3 choose_points.py",shell=True)
+    
