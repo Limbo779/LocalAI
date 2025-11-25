@@ -35,3 +35,10 @@
 # 25 Nov 2025
 
 * for main chat we can use json to store all the chat history [check this for context](https://www.perplexity.ai/search/i-want-ollama-to-access-txt-fi-U37PfPgERuG4jIcoo2yy6w#7)
+* i written the code upto points choosing but it is frustratingly slow
+* but still let's finish it then we may optimize it locally with GPU in next arc
+* in this arc ,it will answer the question and that's it no reccuring question
+* in next arc we will optimize with GPU and make a reccuring chats like in ChatGPT
+* if we wanna move to cloud , then choose the GPU enough to run these model in a right time and try to save cost in that way
+* [Perplexity Chat for today](https://www.perplexity.ai/search/i-want-ollama-to-access-txt-fi-U37PfPgERuG4jIcoo2yy6w#10) , read this you will get idea for what next to do
+* let's save the perplexity chats in this way rather than naming them in perplexity
