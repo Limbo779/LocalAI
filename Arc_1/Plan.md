@@ -42,3 +42,8 @@
 * if we wanna move to cloud , then choose the GPU enough to run these model in a right time and try to save cost in that way
 * [Perplexity Chat for today](https://www.perplexity.ai/search/i-want-ollama-to-access-txt-fi-U37PfPgERuG4jIcoo2yy6w#10) , read this you will get idea for what next to do
 * let's save the perplexity chats in this way rather than naming them in perplexity
+
+# 26 Nov 2025
+
+* arc 1 is finally over but it is slow(around 15 min for single prompt) and very ineffective 
+* so in next arc we will try to use our intel GPU to make the process more faster

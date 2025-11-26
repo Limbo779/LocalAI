@@ -24,7 +24,7 @@ def summarize(text, language="english"):
         summarizer = EdmundsonSummarizer()
 
     # Generate summary as a list of sentences
-    sentences_count=int(round(count*(1/100)))
+    sentences_count=int(round(count*(1/10)))
     summary = summarizer(parser.document, sentences_count)
     # Combine into one string to return
     

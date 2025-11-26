@@ -207,4 +207,5 @@ i can get into the rabbit hole by doing the projects in their [README.md](https:
 * the rest is just my imagination but let's focus on this stuff
 
 ### Project arc 2
-in this arc i will try to polish the stuff done in arc 1 and make the AI chatbot which i can confidently replace to perplexity . one way is try for RAG process which will make the things more easy
+- in this arc i will try to use my intel Integrated GPU and reduce the painfully slow time 
+- Arc 1 is success but we still need to improve the speed
