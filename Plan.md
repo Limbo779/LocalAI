@@ -215,6 +215,6 @@ i can get into the rabbit hole by doing the projects in their [README.md](https:
 
 - Arc 1 is success but we still need to improve the speed
 
-- maybe try using [this prompt improver](https://github.com/danielmiessler/Fabric/blob/main/data/patterns/improve_prompt/system.md) in the pipeline for better results
+- maybe try using [this prompt improver](https://github.com/danielmiessler/Fabric/blob/main/data/patterns/improve_prompt/system.md) and [Fabric](https://github.com/danielmiessler/Fabric.git) in the pipeline for better results
 
 - this arc must strictly use docker cause we may need lots of software
