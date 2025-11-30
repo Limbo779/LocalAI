@@ -198,6 +198,10 @@ i can get into the rabbit hole by doing the projects in their [README.md](https:
 
 - resources for getting crazy in NLP [link_1](https://www.sbert.net/index.html) [link_2](https://www.nltk.org/book/) [link_3](https://ia803202.us.archive.org/31/items/python_ebooks_2020/python_3_text_processing_with_nltk_cookbook.pdf)
 
+- arc 1 is finally over but it is slow(around 15 min for single prompt) and very ineffective
+
+- so in next arc we will try to use our intel GPU to make the process more faster
+
 #### Progress from here
 * if it is successfull then maybe we can use GPU 
 * but for that we should use docker cause we need to install and configure lots of software
@@ -208,4 +212,9 @@ i can get into the rabbit hole by doing the projects in their [README.md](https:
 
 ### Project arc 2
 - in this arc i will try to use my intel Integrated GPU and reduce the painfully slow time 
+
 - Arc 1 is success but we still need to improve the speed
+
+- maybe try using [this prompt improver](https://github.com/danielmiessler/Fabric/blob/main/data/patterns/improve_prompt/system.md) in the pipeline for better results
+
+- this arc must strictly use docker cause we may need lots of software
