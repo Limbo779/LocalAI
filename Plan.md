@@ -218,3 +218,12 @@ i can get into the rabbit hole by doing the projects in their [README.md](https:
 - maybe try using [this prompt improver](https://github.com/danielmiessler/Fabric/blob/main/data/patterns/improve_prompt/system.md) and [Fabric](https://github.com/danielmiessler/Fabric.git) in the pipeline for better results
 
 - this arc must strictly use docker cause we may need lots of software
+
+- in arc_2 , we will learn Docker [from this video](https://youtu.be/fqMOX6JJhGo) . we may do other stuff after learning docker
+
+- put down all the things learned in arc_1 into a md notes and make it into a anki deck to preserve this valuable knowledge , this is just a side thing along with project which will be done after learning docker and reviewing cards as the project progress and till the end of time
+
+-i made a effiecient way to make pdf to anki , it is simply refining the prompt for making pdf into simple material (or any specification if wanted) then using the refined prompt to change the material into deck . dividing the pdf to 15-20 page pdf always yield best results
+
+- i also tried the same for online video lecture but it got failed and explained in Arc_2/Docker_Learning/Failed_Attempt
+

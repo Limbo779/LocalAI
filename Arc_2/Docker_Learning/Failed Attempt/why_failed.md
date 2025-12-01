@@ -1,0 +1,5 @@
+- i tired to extract the technical and command stuffs from the video and explaination from the video seperatly
+- then i tried to combine them to get the good quality notes from video transcript (yes all this should be done using transcript)
+- but for some reason i was not able to get the just the technical stuffs (i used AI chat for this like perplexity , gemini)
+- the explaination can be extracted by summarizing transcript using sumy
+- also i did not get the right way to merge these two things
