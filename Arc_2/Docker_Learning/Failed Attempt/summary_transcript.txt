@@ -1,0 +1,108 @@
+In this course, we first try to understand what containers are, what Docker is, and why you might need it and what it can do for you.
+We will see how to run a Docker container how to build your own Docker image, we will see networking in Docker and how to use Docker compose what Docker registry is how to deploy your own private registry.
+First of all, to complete this course, you don't have to set up your own labs.
+Well, you may set it up if you wish to, if you wish to have your own environment, and we have a demo as well.
+And one of my previous projects, I had this requirement to set up an end to end application stack, including various different technologies, like a web server using node j s, and a database such as MongoDB, and a messaging system like Redis, and an orchestration tool like Ansible, we had a lot of issues developing this application stack with all these different components.
+And we've had to go back and look at different OS that was compatible with all of these different services.
+Next, every time we had a new developer on board, we found it really difficult to set up a new environment, the new developers had to follow a large set of instructions and run hundreds of commands to finally set up their environments, we had to make sure they were using the right operating system, the right versions of each of these components.
+We just had to build the Docker configuration once and all our developers could now get started with a simple Docker run command.
+But it's also important to note that containers are not new with Docker containers have existed for about 10 years now and some of the different types of containers are Aleksey LSD like CFS, etc.
+Let's say we have a system with an Ubuntu OS with Docker installed on it.
+So what is an OS that do not share the same kernel as this windows.
+And so you won't be able to run a Windows based container on a Docker host with Linux on it.
+Bringing up an application is as easy as running a Docker run command with the name of the image.
+Containers are running instances of images that are isolated and have their own environments and set of processes.
+This Docker file is then used to create an image for their applications.
+This image can now run on any host with Docker installed on it, and is guaranteed to run the same way everywhere.
+Well, that's it for now.
+In the upcoming lecture, we will look at how to get started with Docker.
+We'll now see how to get started with Docker.
+In the upcoming demo, we will take a look at how to install and get started with Docker on a Linux system.
+We will now head over to our demo, and we will take a look at how to install Docker on a Linux machine.
+Remember, for the purpose of this course, you don't really need to set up a Docker system on your own.
+At the end of this lecture, you will go through a hands on quiz where you will practice working with these commands.
+The Docker run command is used to run a container from an image running the Docker run nginx command will run an instance of the nginx application from the Docker host if it already exists.
+Such as the container ID, the name of the image we use to run the containers, the current status and the name of the container.
+But first, how do we see a list of images present on our host run the Docker images command to see a list of available images and their sizes.
+Say you were to run a Docker container from an Ubuntu image.
+If you were to list the running containers, you wouldn't see the container running.
+Because Ubuntu is just an image of an operating system that is used as the base image.
+There is no process or application running in it by default.
+If the image isn't running any service, as is the case with Ubuntu, you could instruct Docker to run a process with the Docker run command.
+What we just saw was executing a command when we run the container, but what if we would like to execute a command on a running container.
+For example, when I run the docker ps command, I can see that there is a running container which uses the Ubuntu image and sleeps 400 seconds.
+Now remember, if you're specifying the ID of a container in any Docker command, you can simply provide the first few characters alone, just so it is different from the other container IDs on the host.
+The terminal gives you access to a real system running Docker, you can run any Docker command here and run your own containers or applications.
+We now run a Redis container using the Docker run Redis command, wait for the container to run.
+We will now look at some of the other Docker run commands.
+At the end of this lecture, you will go through a hands on quiz where you will practice working with these commands.
+We learned that we could use the Docker run Redis command to run a container running a Redis service, in this case, the latest version of Redis, which happens to be 5.0 dot five as of today.
+I have a simple prompt application that when run asked for my name and on entering my name prints a welcome message if If I were to Docker eyes this application and run it as a Docker container like this, it wouldn't wait for the prompt.
+Let's go back to the example where we run a simple web application in a Docker container on my Docker host.
+Remember the underlying host where Docker is installed is called Docker host or Docker engine.
+When we run a containerized web application it runs and we're able to see that the server is running.
+Once your application gets packaged into a Docker image, you will then run it with the Docker run command followed by the name of the image.
+In this lecture, we're going to see how to create your own image.
+It could either be because you cannot find a component or a service that you want to use as part of your application on Docker Hub already, or you and your team decided that the application you're developing will be dockerized for ease of shipping and deployment.
+First we need to understand what we are containerizing or what application we are creating an image for How the application is built.
+Now that I have the instructions, create a Docker file using this.
+First, create a Docker file named Docker file and write down the instructions for setting up your application in it, such as installing dependencies, where to copy the source code from and to and what the entry point of the application is, etc.
+To make it available on the public Docker Hub registry, run the Docker push command and specify the name of the image you just created.
+And finally, entry point allows us to specify a command that will be run when the image is run as a container.
+You can see this information if you run the Docker history command followed by the image name.
+But that's just not it.
+Say you were to run a Docker container from an Ubuntu image.
+If you were to list the running containers, you wouldn't see the container running.
+If you look at the Docker file for popular Docker images like ngi Nx, you will see an instruction called CMD, which stands for command that defines the program that will be run within the container when it starts.
+Let us look at the Docker file for this image.
+So how do you specify a different command to start the container?
+In this case, I run the Docker run Ubuntu command with the sleep five command as the added option.
+You will then create your own image from the base Ubuntu image and specify a new command.
+As we learned before, One option is to run the Docker run command with the new command appended to it, in this case, sleep 10.
+And so the command that will be run at startup will be sleep 10.
+So how do you configure a default value for the command if one was not specified in the command line, that's where you would use both entry point as well as the command instruction.
+Well, in that case, you can override it by using the entry point option in the Docker run command.
+Well, that's it for this lecture, and I will see you in the next.
+This will also mean that unlike before, you will now not be able to run multiple web containers on the same host on the same port, as the ports are now common to all containers in the host network.
+But what if we wish to isolate the containers within the Docker host, for example, the first two web containers on internal network 172 and the second two containers on a different internal network, like 182.
+For example, in this case, I have a web server and a MySQL database container running on the same node.
+The right way to do it is to use the container name.
+All containers in a Docker host can resolve each other with the name of the container.
+That's all for now.
+So all of these are the Docker image layers.
+Remember that the same image layer is shared by all containers created using this image.
+For example, if we were working with a database, and we would like to preserve the data created by the container, we could add a persistent volume to the container.
+Then when I run the Docker container using the Docker run command, I could mount this volume inside the Docker containers rewrite layer using the dash v option like this.
+So I would do a Docker run dash v then specify my newly created volume name followed by a colon and the location inside my container, which is the default location where MySQL stores data and that is where lib MySQL and then the image name MySQL.
+In that case, we will run a container using the command Docker run dash v. But in this case, we will provide the complete path to the folder we would like to mount that is for slash data forward slash MySQL and so it will create a container and mount the folder to the container.
+First, we run the Docker run command to start an instance of Redis.
+By running the Docker run Redis command, we will add the dash D parameter to run this container in the background.
+And we will also name the container Redis.
+And we can see that all the instances are running on the host.
+The key is the image and the value is the name of the image to use.
+If we would like to instruct Docker compose to run a Docker build, instead of trying to pull an image, we can replace the image line with a built line and specify the location of a directory, which contains the application code, and a Docker file with instructions to build the Docker image.
+This time when you run the Docker compose up command, it will first build the images, give a temporary name for it, and then use those images to run containers using the options you specified before.
+For example, if you wanted to deploy containers on a different network other than the default bridge network, there was no way of specifying that in this version of the file.
+But what is this image and where is this image pulled from?
+So if you don't provide an account or a repository name, it assumes that it is the same as the given name, which in this case is nginx.
+Now that you have your custom registry running at Port 5000, on this Docker host, how do you push your own image to it?
+How do you see this on a host?
+If we were to list all the services inside the Docker container, we see that the next service running with a process ID of one.
+If we list the services on the Docker host, we will see the same service but with a different process ID that indicates that all processes are in fact running on the same host but separated into their own containers using namespaces.
+We will look at each of these now.
+But you would like to try Docker, you don't have access to a Linux system in the lab or in the cloud.
+You're just working with Docker on a Linux virtual machine on a Windows host.
+In the previous option, we saw that we had Oracle VirtualBox installed on Windows and then a Linux system and then Docker on that Linux system.
+When you install Docker desktop for Windows, the default option is to work with Linux containers.
+Now you could create Windows based images and run Windows containers on a Windows Server just like how you would run Linux containers on a Linux system.
+If you remember that, that is what you specify at the beginning of the Docker file.
+Finally, remember that all of this is to be able to run the Linux container on Mac.
+So far in this course, we have seen that with Docker, you can run a single instance of the application with a simple Docker run command.
+This is a command used for Docker swarm, we will look at the command itself in a bit.
+As you already know, to run an instance of my web server, I run the Docker run command and specify the name of the image I wish to run.
+Now one way to do this would be to run the Docker run command on each worker node.
+Docker services are one or more instances of a single application or service that runs across the saw the nodes in the swarm cluster for example.
+In this case, I could create a Docker service to run multiple instances of my web server application across worker nodes in my swarm cluster.
+For this, I run the Docker service, create command on the manager node and specify my image name there, which is my web server in this case, and use the option replicas to specify the number of instances of my web server I would like to run across the cluster, since I specified three replicas, and I get three instances of my web server distributed across the different worker nodes.
+Well, that's it for now.
+with Docker, you were able to run a single instance of an application using the Docker COI by running the Docker run command, which is great.

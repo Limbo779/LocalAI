@@ -23,9 +23,13 @@ def summarize(text, language="english"):
         summarizer = LexRankSummarizer()
     else :
         summarizer = EdmundsonSummarizer()
+        summarizer.bonus_words = ("important", "mastery", "key", "significant")
+        summarizer.stigma_words = ("irrelevant", "maybe", "bad")
+        summarizer.null_words = ("the", "and", "of", "to", "is") 
+
 
     # Generate summary as a list of sentences
-    sentences_count=int(round(count*(1/10)))
+    sentences_count=int(round(count*(1/200)))
     summary = summarizer(parser.document, sentences_count)
     # Combine into one string to return
     
@@ -34,16 +38,14 @@ def summarize(text, language="english"):
 
 if __name__ == "__main__":
     text=""
-    algo = input()
-    for i in range(3): # this loop is to summarize three md files
-        # open the md file and summarize it
-        with open(f"output_{i+1}.md",'r',encoding='utf-8') as f:
-            text = f.read()
-            text=summarize(text)
+    algo = "LexRank"
+    with open(f"transcript.md",'r',encoding='utf-8') as f:
+        text = f.read()
+        text=summarize(text)
 
-            # write the summarized text into data.txt line by line
-            with open('data.txt','a+',encoding='utf-8') as file:
-                for sentance in text :
-                    file.write(str(sentance)+'\n')
+    # write the summarized text into data.txt line by line
+    with open('data.txt','a+',encoding='utf-8') as file:
+        for sentance in text :
+            file.write(str(sentance)+'\n')
     
 
