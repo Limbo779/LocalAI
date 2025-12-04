@@ -227,3 +227,6 @@ i can get into the rabbit hole by doing the projects in their [README.md](https:
 
 - i also tried the same for online video lecture but it got failed and explained in Arc_2/Docker_Learning/Failed_Attempt
 
+- after this arc , operation two girl will be done
+
+- after arc 3 and 4 , work will be done exclusively for system
