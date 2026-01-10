@@ -227,6 +227,7 @@ i can get into the rabbit hole by doing the projects in their [README.md](https:
 
 - i also tried the same for online video lecture but it got failed and explained in Arc_2/Docker_Learning/Failed_Attempt
 
-- after this arc , operation two girl will be done
+- in this arc apart from Implementing GPU Computing , we will also imnplement RAG pipeline to speedup the process
 
-- after arc 3 and 4 , work will be done exclusively for system
+### Project arc 3
+- in this we will do the project dicussed in [this chat](https://www.perplexity.ai/search/i-have-a-project-idea-do-you-t-tnsgR2w5RbCYUvkwd257Rw#6)
