@@ -14,8 +14,8 @@ if you are more intrested in my project then please checkout plan.md in each arc
 - each arc has it's own plan and structure
 
 ### Each arc's plan so far:
-**Arc 1**: Implement a basic websearch LocalAI using Ollama 
-**Arc 2**: Try to improve the computing speed using Intel GPU (which people rarely, or will not, use ) in my laptop
-**Arc 3**: Implement a RAG pipeline for low hallucination and higher accuracy
+- **Arc 1**: Implement a basic websearch LocalAI using Ollama 
+- **Arc 2**: Try to improve the computing speed using Intel GPU (which people rarely, or will not, use ) in my laptop
+- **Arc 3**: Implement a RAG pipeline for low hallucination and higher accuracy
 
 
